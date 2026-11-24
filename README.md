@@ -2,7 +2,7 @@
 
 App de estudos para concurso público. Tem aulas curtas, banco de questões, simulados cronometrados e um sistema de recompensas (XP, níveis, sequência de dias e carimbos). Funciona no navegador do celular e pode ser instalado como app no Android, inclusive para usar sem internet.
 
-A primeira versão foi feita para o concurso de **Fiscal de Posturas da Prefeitura de Patrocínio Paulista-SP** (Concurso Público 01/2026, banca Império Concursos, prova em 17/01/2027). Ela está organizada para receber outros concursos sem mudar o código.
+A primeira versão foi feita para o concurso de **Fiscal de Posturas da Prefeitura de Patrocínio Paulista-SP** (Concurso Público 01/2026, banca Império Concursos, prova em 17/01/2027). Outros concursos entram por planilha, sem mexer no código.
 
 ## O que tem no app
 
@@ -16,112 +16,152 @@ A primeira versão foi feita para o concurso de **Fiscal de Posturas da Prefeitu
 
 ### Conteúdo de Patrocínio Paulista
 
-- **Conhecimentos Específicos:** Código de Posturas (Lei 686/1973 e LC 10/2013), Código Tributário Municipal (LC 55/2021), Código Sanitário do Estado de SP (Lei 10.083/1998), Lei Orgânica do Município (Lei 2.048/2005) e Informática.
+- **Conhecimentos Específicos:** Código de Posturas (Lei 686/1973 e LC 10/2013), Código Tributário Municipal (LC 55/2021), Código Sanitário do Estado de SP (Lei 10.083/1998), Lei Orgânica do Município (Lei 2.048/2005), rotina do fiscal e Informática.
 - **Língua Portuguesa, Matemática e Conhecimentos Gerais**, conforme o Anexo I do edital.
 - **120 questões de provas reais** de fiscal de posturas (Vunesp, Avança SP, AGIRH, IPEFAE e outras), tiradas do PCI Concursos.
 - **83 questões inéditas**, escritas a partir do texto das leis.
 
 > **Atenção:** os gabaritos oficiais das provas reais não estavam disponíveis. As respostas foram conferidas uma a uma pela lei ou pela conta, e cada questão avisa isso no app. Questões de temas que não estão no edital (licitação, NBR 9050, leis ambientais etc.) ficam no banco, mas fora dos simulados.
 
-## Publicar no GitHub Pages
+---
 
-1. Crie um repositório novo no GitHub (por exemplo, `caderneta-de-fiscal`). Pode ser público ou privado; o Pages grátis exige repositório público.
-2. Envie todos os arquivos desta pasta: no repositório, clique em **Add file → Upload files**, arraste o conteúdo da pasta e confirme em **Commit changes**.
-3. Vá em **Settings → Pages**. Em **Source**, escolha **Deploy from a branch**, depois a branch **main** e a pasta **/ (root)**. Salve.
-4. Em um ou dois minutos o endereço aparece no topo da página, no formato `https://SEU-USUARIO.github.io/caderneta-de-fiscal/`.
+## 1. Publicar no GitHub Pages
 
-## Instalar no celular (Android)
+O GitHub Pages hospeda o app de graça e gera um endereço que abre em qualquer celular.
 
-1. Abra o endereço do GitHub Pages no **Chrome** do celular.
-2. Toque nos três pontinhos e em **Instalar app** (ou **Adicionar à tela inicial**).
-3. O ícone aparece na tela inicial. O app abre em tela cheia e funciona sem internet depois da primeira abertura.
+1. Crie uma conta em [github.com](https://github.com), se ainda não tiver.
+2. Clique em **New repository**. Dê um nome (por exemplo, `caderneta-de-fiscal`), marque **Public** e clique em **Create repository**. O Pages gratuito só funciona com repositório público.
+3. Na página do repositório, clique em **uploading an existing file** (ou **Add file → Upload files**).
+4. Arraste **o conteúdo** desta pasta, e não a pasta em si: o `index.html` precisa ficar na raiz do repositório. Clique em **Commit changes**.
+5. Vá em **Settings → Pages**. Em **Source**, escolha **Deploy from a branch**; em **Branch**, escolha **main** e **/ (root)**. Clique em **Save**.
+6. Espere um ou dois minutos e recarregue a página. O endereço aparece no topo, no formato `https://SEU-USUARIO.github.io/caderneta-de-fiscal/`.
 
-Para gerar um arquivo **.apk**, cole o endereço do GitHub Pages em [pwabuilder.com](https://www.pwabuilder.com), clique em **Package for stores → Android** e baixe o pacote.
+## 2. Instalar no celular Android
 
-## Progresso e backup
+1. No celular, abra o **Google Chrome** (outros navegadores podem não oferecer a instalação).
+2. Digite o endereço do GitHub Pages e espere o app carregar por completo.
+3. Toque nos **três pontinhos** no canto superior direito.
+4. Toque em **Instalar app**. Se não aparecer, use **Adicionar à tela inicial → Instalar**.
+5. Confirme. O ícone azul **Caderneta** aparece na tela inicial.
+6. Abra pelo ícone, com a internet ligada, ao menos uma vez. A partir daí ele funciona também sem internet.
 
-O progresso fica salvo **no próprio aparelho**, sem login. Se o navegador for limpo ou o celular trocado, o histórico se perde. Para evitar isso:
+**Quer um arquivo .apk?** Entre em [pwabuilder.com](https://www.pwabuilder.com), cole o endereço do GitHub Pages, clique em **Package for stores → Android → Generate** e baixe o pacote. Para instalar um .apk fora da Play Store, o Android pede para permitir "instalar apps desconhecidos" no gerenciador de arquivos.
 
-1. No app, vá em **Carimbos → Backup do progresso → Copiar backup**.
-2. Guarde o texto copiado (numa conversa do WhatsApp com você mesma, por exemplo).
-3. No aparelho novo, cole o texto no mesmo lugar e toque em **Restaurar backup**.
+**Atualizações:** quando uma versão nova for publicada, basta abrir o app com internet. Ele baixa a novidade sozinho e passa a usá-la na abertura seguinte.
 
-## Adicionar outro concurso
+## 3. Compartilhar com outras pessoas
 
-Cada concurso é um arquivo `.json` na pasta `dados/`. O arquivo `dados/exemplo-novo-concurso.json` mostra o formato mínimo.
+O app não tem login nem servidor. Cada pessoa usa o mesmo endereço, e o progresso de cada uma fica guardado só no aparelho dela. Por isso:
 
-**Pelo próprio app (sem mexer no código):** em **Carimbos → Concursos → Adicionar concurso ou questões**, escolha o arquivo `.json`.
+- **Para compartilhar, basta mandar o link** do GitHub Pages. Cada pessoa segue o passo 2 para instalar.
+- **Ninguém vê o progresso de ninguém.** XP, respostas, carimbos e simulados ficam no celular de cada um.
+- **Não há custo nem limite de usuários**: o GitHub Pages serve o arquivo, e todo o resto roda no celular.
+- **Cada pessoa pode estudar para um concurso diferente.** Em **Carimbos → Concursos → Adicionar concurso ou questões**, ela escolhe o arquivo `.json` do concurso dela (veja a seção 4). Esse concurso fica só no aparelho dela.
+- **Para oferecer um concurso a todos**, coloque o `.json` na pasta `dados/` do repositório e mande o link do arquivo. Exemplo: `https://SEU-USUARIO.github.io/caderneta-de-fiscal/dados/nome-do-concurso.json`. A pessoa baixa e importa pelo app.
+- **Para trocar o concurso que abre por padrão** para todo mundo, veja a seção 5.
 
-- Se o `id` for novo, o concurso aparece na lista "Estudando para", com progresso próprio.
-- Se o `id` for de um concurso que já existe, as aulas e questões novas são acrescentadas a ele (as repetidas são ignoradas).
+Cuidados ao deixar o app público:
 
-### Formato do arquivo
+- O repositório e o conteúdo ficam visíveis para qualquer pessoa.
+- As questões de provas reais pertencem às bancas. Mantenha a nota de uso para estudo e não cobre pelo acesso.
+- Lembre quem usa de fazer o backup (seção 6), porque limpar o navegador apaga o progresso.
 
-```json
-{
-  "id": "identificador-unico-do-concurso",
-  "nome": "Nome do cargo",
-  "orgao": "Prefeitura de Exemplo-SP",
-  "banca": "Nome da banca",
-  "dataProva": "2027-05-10",
-  "horaProva": "09:00",
-  "duracaoMin": 180,
-  "notaMinima": 50,
-  "materias": [
-    { "id": "port", "nome": "Língua Portuguesa", "curto": "Português", "qtd": 10, "valor": 2.5 }
-  ],
-  "aulas": [
-    { "id": "a-1", "materia": "port", "assunto": "Crase", "titulo": "Crase sem medo",
-      "cards": [ { "t": "Título da página", "b": "Texto com **negrito** marcado assim." } ] }
-  ],
-  "questoes": [
-    { "id": "q-1", "materia": "port", "assunto": "Crase",
-      "enunciado": "Texto da pergunta",
-      "alternativas": ["A", "B", "C", "D"],
-      "correta": 1,
-      "explicacao": "Por que essa é a certa.",
-      "origem": "prova",
-      "fonte": "Banca 2025 · Pref. Exemplo/SP · Cargo" }
-  ]
-}
+## 4. Criar ou editar um concurso pela planilha
+
+Todo o conteúdo fica em planilhas, que podem ser abertas no **Excel**, no **LibreOffice** ou no **Google Planilhas**. Um script em Python converte as planilhas para o formato do app.
+
+Cada concurso é uma pasta dentro de `planilhas/`, com quatro arquivos:
+
+| Arquivo | Uma linha para cada | Colunas |
+| --- | --- | --- |
+| `concurso.csv` | informação geral | `campo`, `valor` (id, nome, orgao, banca, dataProva no formato AAAA-MM-DD, horaProva, duracaoMin, notaMinima) |
+| `materias.csv` | matéria da prova | `id` (curto, sem espaço), `nome`, `curto` (nome no menu), `qtd` (questões na prova), `valor` (pontos por acerto) |
+| `aulas.csv` | **página** de aula | `id_aula`, `materia`, `assunto`, `titulo_aula`, `titulo_pagina`, `texto_pagina` |
+| `questoes.csv` | questão | `id`, `materia`, `assunto`, `enunciado`, `alternativa_A` a `alternativa_E`, `correta` (letra), `explicacao`, `origem`, `fonte`, `fora_do_edital` |
+
+Dicas para preencher:
+
+- **Aulas com várias páginas:** repita o mesmo `id_aula` em várias linhas, uma para cada página, na ordem em que devem aparecer.
+- **Negrito:** escreva `**assim**` no texto da página.
+- **Alternativas:** podem ser de 2 a 5. Deixe vazias as colunas que não usar.
+- **`correta`:** a letra da alternativa certa (A, B, C, D ou E).
+- **`origem`:** `prova` para questão de prova real, `inedita` para questão criada. Em `fonte`, escreva banca, órgão e ano.
+- **`fora_do_edital`:** escreva `sim` para a questão ficar no banco, mas fora dos simulados.
+- **`assunto`:** use o mesmo texto na aula e nas questões. É assim que o botão "Praticar" de cada aula encontra as questões certas.
+- Ao salvar, escolha **CSV UTF-8 (separado por vírgulas)**. No Google Planilhas: **Arquivo → Fazer download → Valores separados por vírgula**.
+
+### Passo a passo de um concurso novo
+
+1. Copie a pasta `planilhas/exemplo-novo-concurso` e dê a ela o nome do concurso (por exemplo, `planilhas/franca-agente-2027`).
+2. Edite os quatro arquivos CSV.
+3. Converta para o formato do app (é preciso ter o [Python 3](https://www.python.org/downloads/) instalado):
+
+   ```bash
+   cd fonte
+   python3 planilha_para_json.py franca-agente-2027
+   ```
+
+   No Windows, troque `python3` por `python`. O script aponta erros com o número da linha: matéria que não existe, id repetido, resposta sem alternativa correspondente.
+
+4. O arquivo `dados/franca-agente-2027.json` fica pronto. Importe pelo app (**Carimbos → Concursos**) ou publique no GitHub para compartilhar.
+
+### Editar o concurso de Patrocínio Paulista
+
+```bash
+cd fonte
+python3 planilha_para_json.py patrocinio-fiscal-2026   # planilhas -> JSON
+python3 montar.py                                      # JSON -> index.html
 ```
 
-| Campo | Observação |
-| --- | --- |
-| `materias[].qtd` e `valor` | Quantas questões a matéria tem na prova e quanto vale cada uma; o simulado completo usa esses números |
-| `correta` | Posição da alternativa certa, começando em **0** (0 = A, 1 = B, 2 = C...) |
-| `alternativas` | De 2 a 5 opções |
-| `origem` | `"prova"` para questão de prova real, `"inedita"` para questão criada |
-| `extra` | Opcional. Use `true` para questões fora do edital: elas ficam no banco, mas não entram nos simulados |
+Para transformar em planilha um JSON que já existe, use `python3 json_para_planilha.py nome-do-concurso`.
+
+## 5. Trocar o concurso que abre por padrão
+
+O `index.html` já traz um concurso embutido, que é o que abre na primeira vez. Para trocar:
+
+```bash
+cd fonte
+python3 montar.py franca-agente-2027
+```
+
+Depois suba o `index.html` novo para o GitHub. Em seguida, abra o `sw.js` e troque `caderneta-v3` por `caderneta-v4` (aumente o número a cada publicação). Isso faz os celulares baixarem a versão nova. Quem já tinha progresso no concurso antigo continua com ele, porque o progresso é separado por concurso.
+
+## 6. Backup do progresso
+
+1. No app, vá em **Carimbos → Backup do progresso → Copiar backup**.
+2. Guarde o texto copiado (numa conversa do WhatsApp com você mesmo, ou num e-mail).
+3. No aparelho novo, cole o texto no mesmo campo e toque em **Restaurar backup**.
+
+---
+
+## Por que o app é em HTML e JavaScript, e não em Python?
+
+O celular só roda, sem instalar nada, o que o navegador entende: HTML, CSS e JavaScript. Um app escrito em Python precisaria de ferramentas como Kivy ou BeeWare e do kit de desenvolvimento do Android para virar .apk. O resultado seria mais pesado, mais difícil de atualizar e não funcionaria no iPhone nem no computador.
+
+Por isso a divisão ficou assim:
+
+- **Conteúdo:** em planilhas, editáveis por qualquer pessoa.
+- **Ferramentas:** em Python (`planilha_para_json.py`, `json_para_planilha.py`, `montar.py`), com comentários em português.
+- **App:** em um único arquivo HTML, sem bibliotecas externas, que não precisa ser mexido para acrescentar conteúdo.
 
 ## Estrutura do projeto
 
 ```
 caderneta-de-fiscal/
-├── index.html                 App completo (já traz o concurso de Patrocínio Paulista embutido)
-├── manifest.webmanifest       Nome, cores e ícones para instalar no celular
-├── sw.js                      Guarda o app para uso sem internet
-├── icones/                    Ícones do app (192 e 512 px)
-├── dados/
-│   ├── patrocinio-fiscal-2026.json   Aulas e questões de Patrocínio Paulista
-│   └── exemplo-novo-concurso.json    Modelo para um concurso novo
+├── index.html                  App completo, com o concurso padrão embutido
+├── manifest.webmanifest        Nome, cores e ícones para instalar no celular
+├── sw.js                       Guarda o app para uso sem internet
+├── icones/                     Ícones do app (192 e 512 px)
+├── planilhas/                  CONTEÚDO EDITÁVEL (um concurso por pasta)
+│   ├── patrocinio-fiscal-2026/   concurso.csv, materias.csv, aulas.csv, questoes.csv
+│   └── exemplo-novo-concurso/    modelo para copiar
+├── dados/                      Arquivos .json gerados a partir das planilhas
 └── fonte/
-    ├── template.html          Código do app, sem os dados
-    ├── conteudo_patrocinio.py Aulas e questões de Patrocínio em Python (gera o JSON)
-    └── montar.py              Junta template + JSON e gera o index.html
+    ├── template.html           Código do app, sem os dados
+    ├── planilha_para_json.py   Planilhas -> JSON (com verificação de erros)
+    ├── json_para_planilha.py   JSON -> planilhas
+    └── montar.py               Template + JSON -> index.html
 ```
-
-### Atualizar o conteúdo de Patrocínio Paulista
-
-Requer Python 3.
-
-```bash
-cd fonte
-python3 conteudo_patrocinio.py   # regenera dados/patrocinio-fiscal-2026.json
-python3 montar.py                # regenera o index.html
-```
-
-Depois de publicar uma versão nova, troque o número em `sw.js` (`caderneta-v3` → `caderneta-v4`) para os celulares baixarem a atualização.
 
 ## Fontes do conteúdo
 
@@ -130,4 +170,4 @@ Depois de publicar uma versão nova, troque o número em `sw.js` (`caderneta-v3`
 - Lei Estadual 10.083/1998, pelo site da Assembleia Legislativa de SP.
 - Provas anteriores de fiscal de posturas publicadas no [PCI Concursos](https://www.pciconcursos.com.br).
 
-As questões de provas reais pertencem às respectivas bancas e foram incluídas apenas para estudo pessoal.
+As questões de provas reais pertencem às respectivas bancas e foram incluídas apenas para estudo, sem fins comerciais.
