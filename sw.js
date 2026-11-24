@@ -1,7 +1,7 @@
 // Guarda o app no celular para funcionar sem internet.
 // Ao publicar uma versão nova, troque o número abaixo (v4 -> v5).
-const CACHE = 'caderneta-v4';
-const ARQUIVOS = ['./', './index.html', './manifest.webmanifest', './icones/icon-192.png', './icones/icon-512.png'];
+const CACHE = 'caderneta-v5';
+const ARQUIVOS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 // Guarda cada arquivo separadamente: se um faltar, os outros continuam funcionando.
 self.addEventListener('install', e => e.waitUntil(
