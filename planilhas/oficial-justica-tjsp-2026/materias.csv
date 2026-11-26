@@ -1,0 +1,12 @@
+﻿id,nome,curto,qtd,valor
+port,Língua Portuguesa (Bloco I),Português,15,1
+penal,Direito Penal,Penal,6,1
+ppenal,Direito Processual Penal,Proc. Penal,7,1
+pcivil,Direito Processual Civil,Proc. Civil,9,1
+const,Direito Constitucional,Constitucional,5,1
+adm,Direito Administrativo,Administrativo,4,1
+civil,Direito Civil,Civil,4,1
+legesp,Legislação Especial e Normas da Corregedoria,Leg. Especial,5,1
+atual,Atualidades e Estatuto da Pessoa com Deficiência,Atualidades,3,1
+mat,Matemática e Raciocínio Lógico,Mat. e Lógica,7,1
+info,Informática,Informática,5,1

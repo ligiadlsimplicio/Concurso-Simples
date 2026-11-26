@@ -1,0 +1,4058 @@
+{
+ "id": "patrocinio-fiscal-2026",
+ "nome": "Fiscal de Posturas",
+ "orgao": "Prefeitura de Patrocínio Paulista-SP",
+ "banca": "Império Concursos",
+ "dataProva": "2027-01-17",
+ "horaProva": "08:30",
+ "duracaoMin": 180,
+ "notaMinima": 50,
+ "materias": [
+  {
+   "id": "esp",
+   "nome": "Conhecimentos Específicos",
+   "curto": "Específicos",
+   "qtd": 15,
+   "valor": 4.0
+  },
+  {
+   "id": "port",
+   "nome": "Língua Portuguesa",
+   "curto": "Português",
+   "qtd": 10,
+   "valor": 1.75
+  },
+  {
+   "id": "mat",
+   "nome": "Matemática",
+   "curto": "Matemática",
+   "qtd": 10,
+   "valor": 1.75
+  },
+  {
+   "id": "ger",
+   "nome": "Conhecimentos Gerais",
+   "curto": "Gerais",
+   "qtd": 5,
+   "valor": 1.0
+  }
+ ],
+ "aulas": [
+  {
+   "id": "a-post-1",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "titulo": "Código de Posturas: o básico",
+   "cards": [
+    {
+     "t": "O que é",
+     "b": "A **Lei 686/1973** é o Código de Posturas de Patrocínio Paulista. Tem 487 artigos em sete títulos: disposições gerais, higiene pública, bem-estar público, funcionamento de estabelecimentos, fiscalização, infrações e penalidades, disposições finais."
+    },
+    {
+     "t": "Para que serve (art. 2º)",
+     "b": "Disciplina a **higiene pública**, o **bem-estar público** e a **localização e funcionamento** de estabelecimentos comerciais, industriais e de serviços, além das relações entre a Prefeitura e os munícipes."
+    },
+    {
+     "t": "Quem faz cumprir (arts. 3º e 4º)",
+     "b": "Cabe ao **Prefeito e aos servidores municipais em geral** cumprir e fazer cumprir o código. Toda pessoa física ou jurídica é obrigada a **facilitar a fiscalização**."
+    },
+    {
+     "t": "Como se lê o código",
+     "b": "Os dispositivos se aplicam em **sentido restrito**, sem analogia nem interpretação extensiva (art. 485). Os prazos são em **dias corridos**, sem contar o dia inicial; se vencer em sábado, domingo ou feriado, passa para o primeiro dia útil (art. 477)."
+    },
+    {
+     "t": "LC 10/2013",
+     "b": "Acrescentou o **art. 303-A**: a Prefeitura, pela fiscalização de posturas, divulga no site a lista de bares, restaurantes, casas de show, cinemas, templos, escolas e similares com **alvará válido**, atualizada **diariamente**."
+    }
+   ]
+  },
+  {
+   "id": "a-post-2",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "titulo": "Terrenos, lixo e água parada",
+   "cards": [
+    {
+     "t": "Terreno limpo (art. 139)",
+     "b": "Terrenos urbanos e de expansão urbana devem ficar **limpos, capinados** e sem materiais nocivos. A limpeza é obrigatória **pelo menos 2 vezes por ano**. Não pode haver fossa aberta, escombros ou construção inabitável."
+    },
+    {
+     "t": "Se o dono não limpar",
+     "b": "A fiscalização **intima** o proprietário com prazo de **5 dias**. Se não cumprir, a **Prefeitura limpa** e cobra as despesas. O Código Tributário cobra a **taxa de limpeza** sem prejuízo da **multa**."
+    },
+    {
+     "t": "Lixo em terreno (art. 140)",
+     "b": "É proibido jogar lixo ou resíduo industrial em terreno urbano, **mesmo sem muro**, e nas margens de rodovias. A multa vale também para **quem mandou** transportar e para o **dono do veículo**. Estabelecimento perde a licença na **3ª reincidência**."
+    },
+    {
+     "t": "Água (arts. 141 e 149)",
+     "b": "Todo terreno deve dar escoamento às águas. **Não é permitido** conservar **águas estagnadas**. Terreno pantanoso deve ser drenado e aterrado."
+    }
+   ]
+  },
+  {
+   "id": "a-post-3",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "titulo": "Sossego público",
+   "cards": [
+    {
+     "t": "Regra geral (art. 167)",
+     "b": "É proibido perturbar o sossego com ruídos **excessivos e evitáveis**. Som de qualquer tipo depende de **licença** da Prefeitura; sem ela: multa e retirada em **24 horas**, sob multa diária em dobro (art. 168)."
+    },
+    {
+     "t": "Limites (art. 169)",
+     "b": "Veículos: até **85 dB** a 7 m. Máquinas e som em comércio: **55 dB das 7h às 19h** e **45 dB das 19h às 7h**, medidos a 5 m da divisa."
+    },
+    {
+     "t": "Alto-falantes (arts. 170 e 171)",
+     "b": "No máximo **3 serviços**, a **500 m** um do outro. Nunca a menos de **100 m** de hospitais e escolas. Funcionam até **4 horas por dia**, entre **10h e 22h**; os fixos não podem tocar mais de 2 horas seguidas."
+    },
+    {
+     "t": "O que é permitido (art. 177)",
+     "b": "Sinos de igreja (evitar antes das 5h e depois das 22h), sirenes, máquinas de obra licenciadas **das 7h às 19h** até 90 dB, buzinas de veículos entre 6h e 20h com moderação. Perto de hospitais (100 m) as proibições são **permanentes**."
+    },
+    {
+     "t": "Fogos (art. 178, LC 51/2020)",
+     "b": "Proibidos fogos com mais de **65 dB** em **toda a área urbana**. **Balões** são proibidos em **todo o município**. Multa: **1 Unidade Fiscal do Município**. Fogos silenciosos são permitidos."
+    },
+    {
+     "t": "Trabalho barulhento (art. 180)",
+     "b": "Perto de hospitais, escolas e residências, serviço com ruído só **entre 7h e 19h**. Em hotéis e pensões, silêncio completo **após 22h**."
+    }
+   ]
+  },
+  {
+   "id": "a-post-4",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "titulo": "Licença de localização e funcionamento",
+   "cards": [
+    {
+     "t": "Sem licença, não abre (art. 300)",
+     "b": "Nenhum estabelecimento pode se instalar, **nem transitoriamente**, sem licença prévia e pagamento da taxa. **Isenção de tributo não dispensa a licença.**"
+    },
+    {
+     "t": "O alvará (art. 303)",
+     "b": "Contém localização, nome ou razão social, atividades e **horário de funcionamento**. Vale **3 anos**; para **ambulante**, até o **último dia do ano** em que foi emitido. Deve ficar em **lugar visível**. Extraviado: pedir outro em **5 dias**."
+    },
+    {
+     "t": "Sem licença válida (art. 304)",
+     "b": "O estabelecimento pode ser **interditado**, depois de notificação com prazo máximo de **15 dias** para regularizar. A interdição não livra das multas."
+    },
+    {
+     "t": "Mudança de endereço (art. 305)",
+     "b": "Precisa de **permissão** da Prefeitura, que verifica se o novo local atende à lei."
+    },
+    {
+     "t": "Cassação (art. 306)",
+     "b": "Atividade diferente da licenciada; recusa em mostrar a licença; falta de higiene ou segurança; atividade nociva à saúde; local de desordem; perturbação do sossego; tributos não pagos; recusa obstinada a cumprir intimações. Depois da cassação: **3 anos** sem licença no mesmo ramo."
+    },
+    {
+     "t": "Horário (art. 308, texto original)",
+     "b": "Indústria 7h–17h (sábado 7h–12h); comércio 8h–18h (sábado 8h–12h); domingos e feriados fechado, salvo **licença especial**. Atenção: esse capítulo foi alterado por leis de 2009 e 2013."
+    }
+   ]
+  },
+  {
+   "id": "a-post-5",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "titulo": "Comércio ambulante",
+   "cards": [
+    {
+     "t": "Licença (arts. 329 e 330)",
+     "b": "Sempre **especial e prévia**. É **pessoal e intransferível**, a título **precário**. Não dá direito a ponto fixo. Exige documentos, atestado de saúde e pagamento de taxas."
+    },
+    {
+     "t": "Ajudante",
+     "b": "A licença não permite empregar outra pessoa na venda, nem como auxiliar, exceto quem só conduz o veículo."
+    },
+    {
+     "t": "Fiscalização",
+     "b": "O ambulante deve **trazer consigo** a licença e a carteira profissional e mostrá-las sempre que pedido (arts. 332 e 433)."
+    },
+    {
+     "t": "Sem licença (art. 333)",
+     "b": "**Multa + apreensão** das mercadorias. Devolução só depois da licença concedida e da multa paga."
+    },
+    {
+     "t": "Onde pode parar (art. 334)",
+     "b": "Só temporariamente e por interesse público: em **ruas secundárias** (nunca avenidas e praças), a **15 m** no mínimo de qualquer esquina, e a **100 m** de loja que venda o mesmo artigo. Exceção: pipoca, doces, amendoim e sorvete. No carnaval, semana santa e finados a regra dos 100 m não se aplica."
+    }
+   ]
+  },
+  {
+   "id": "a-post-6",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "titulo": "Fiscalização, intimação e vistoria",
+   "cards": [
+    {
+     "t": "Fiscalização (arts. 431 a 434)",
+     "b": "O alvará fica em local **visível** e é mostrado quando pedido. Alimento **deteriorado** é apreendido e inutilizado na hora; o **suspeito** é interditado para exame."
+    },
+    {
+     "t": "Intimação (art. 436)",
+     "b": "Indica o que cumprir e o prazo, que em geral **não passa de 8 dias**. Pode ser prorrogada uma vez, por **no máximo o mesmo período**. Descumprida: penalidade + nova intimação **por edital**."
+    },
+    {
+     "t": "Vistoria (arts. 437 e 438)",
+     "b": "Feita por **comissão técnica especial**, na presença do dono, em dia e hora marcados (salvo risco iminente). Local fechado no dia marcado: **interdição**. Risco de desabamento: vistoria imediata, até com arrombamento, ouvida a Procuradoria."
+    },
+    {
+     "t": "Inspeção para abrir (art. 440)",
+     "b": "Feita em regime de urgência, em até **8 dias** depois do pedido de licença."
+    },
+    {
+     "t": "Laudo (art. 442)",
+     "b": "Toda vistoria gera **laudo**. Se a Prefeitura executar o serviço, o dono paga o custo **+ 20%** de administração. Recurso ao Prefeito não suspende medida urgente."
+    }
+   ]
+  },
+  {
+   "id": "a-post-7",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "titulo": "Auto de infração e multas",
+   "cards": [
+    {
+     "t": "Auto de infração (art. 447)",
+     "b": "Lavrado **imediatamente**. Contém data, hora e local, dados do infrator, descrição do fato, dispositivo infringido e assinaturas. **Não precisa de testemunhas.** Se o infrator se recusar a assinar, a recusa é anotada."
+    },
+    {
+     "t": "Defesa",
+     "b": "**5 dias** a partir da lavratura, por requerimento ao **Prefeito**. Cuidado: no Código Sanitário estadual o prazo é de 10 dias."
+    },
+    {
+     "t": "Quem julga (art. 448)",
+     "b": "O **Prefeito** confirma o auto e arbitra a pena, ouvido o órgão competente."
+    },
+    {
+     "t": "Multa (art. 453)",
+     "b": "Paga em **5 dias** na tesouraria. Graduada em **mínimo, médio ou máximo**, conforme gravidade, atenuantes, agravantes e antecedentes."
+    },
+    {
+     "t": "Valores (arts. 454 a 458)",
+     "b": "Percentuais do **salário mínimo** vigente na data da multa. Exemplos: higiene dos logradouros 5% a 70%; ambulante 3% a 100%; incêndio 30% a 300%; casos não especificados **10% a 300%**."
+    },
+    {
+     "t": "Depois da multa (arts. 460 a 464)",
+     "b": "Não paga vai para **dívida ativa**. Quem deve multa não contrata nem recebe da Prefeitura. **Reincidência = multa em dobro**. Pagar a multa **não dispensa** de cumprir a exigência."
+    }
+   ]
+  },
+  {
+   "id": "a-post-8",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "titulo": "Embargo, demolição e apreensão",
+   "cards": [
+    {
+     "t": "Embargo (art. 465)",
+     "b": "Funcionar sem licença; prejudicar saúde, segurança ou sossego; não atender intimação. Exige notificação e **edital**; pode requisitar **força policial**. Só é levantado após cumprir as exigências e pagar multas."
+    },
+    {
+     "t": "Alimento suspeito (art. 467)",
+     "b": "Interditado para exame por até **30 dias**, com **3 amostras** (exame, dono e laboratório). Contraprova em 10 dias (48 horas se perecível)."
+    },
+    {
+     "t": "Demolição (art. 469)",
+     "b": "Para obra em risco ou irregular. O dono tem no máximo **7 dias** para iniciar. Feita pela Prefeitura: custo **+ 20%**."
+    },
+    {
+     "t": "Apreensão (arts. 470 a 472)",
+     "b": "Coisas vão ao depósito, com **termo**. Não retiradas em **5 dias**: **leilão** (edital com 8 dias de antecedência). Perecíveis: **48 horas**. Saldo do leilão devolvido se pedido em 15 dias."
+    },
+    {
+     "t": "Ambulante sem licença (art. 473)",
+     "b": "Doces são **inutilizados na hora**; carnes, frutas e verduras vão para **casas de caridade**."
+    },
+    {
+     "t": "Quem responde (arts. 474 e 475)",
+     "b": "Incapazes e coagidos não são punidos diretamente: a pena recai sobre **pais, tutores, curadores** ou quem coagiu."
+    }
+   ]
+  },
+  {
+   "id": "a-ctm-1",
+   "materia": "esp",
+   "assunto": "Código Tributário",
+   "titulo": "Código Tributário: tributos e poder de polícia",
+   "cards": [
+    {
+     "t": "A lei",
+     "b": "**LC 55/2021**, de 30/12/2021. O art. 3º cria três **impostos** (IPTU, ITBI, ISSQN), **taxas** e duas **contribuições** (de melhoria e de iluminação pública)."
+    },
+    {
+     "t": "Poder de polícia (art. 109)",
+     "b": "Atividade da administração que **limita ou disciplina** direito, interesse ou liberdade, em razão do **interesse público**: segurança, higiene, costumes, sossego, mercado."
+    },
+    {
+     "t": "Taxas de poder de polícia",
+     "b": "Licença de **funcionamento**, **publicidade**, **obras** particulares, **ocupação** de vias e logradouros e **vigilância sanitária**."
+    },
+    {
+     "t": "Taxas de serviço",
+     "b": "Coleta de lixo, **limpeza de terreno** e retirada de entulho, poda e remoção de árvore, inumação e exumação."
+    },
+    {
+     "t": "Taxa de licença para funcionamento",
+     "b": "Lançada **de ofício**. Só se abre depois da inscrição e do pagamento. Fato gerador: início da atividade e, depois, todo **1º de janeiro**. À vista com até **10%** de desconto ou em até **4 parcelas**. Atraso: multa de **0,33% ao dia, até 20%**, mais juros de 1% ao mês."
+    },
+    {
+     "t": "Estabelecimento (art. 118)",
+     "b": "Inclui residência aberta ao público por atividade profissional, veículo de ambulante, barraca, quiosque e depósito fechado."
+    }
+   ]
+  },
+  {
+   "id": "a-ctm-2",
+   "materia": "esp",
+   "assunto": "Código Tributário",
+   "titulo": "Código Tributário: impostos e processo",
+   "cards": [
+    {
+     "t": "IPTU (arts. 24 e 25)",
+     "b": "Fato gerador em **1º de janeiro**. **1% predial** e **3% territorial** sobre o valor venal. Se o imóvel não cumpre a função social: IPTU progressivo por 5 anos, até **15%**."
+    },
+    {
+     "t": "ITBI e ISSQN",
+     "b": "ITBI: **3%**, e **1%** sobre a parte financiada (art. 52). ISSQN: **2%, 3% ou 5%**, conforme o item da lista de serviços (art. 84)."
+    },
+    {
+     "t": "Infrações (arts. 258 a 261)",
+     "b": "A responsabilidade independe da intenção. **Reincidência**: mesma infração em até **5 anos**. **Denúncia espontânea** antes da fiscalização exclui a multa."
+    },
+    {
+     "t": "Impugnação (arts. 270 e 271)",
+     "b": "Prazo de **15 dias** a partir da intimação. Suspende a cobrança do que foi contestado."
+    },
+    {
+     "t": "Julgamento",
+     "b": "**1ª instância**: diretor do departamento que lançou o tributo, em até **30 dias**. **2ª instância**: Diretor do Departamento Jurídico, em até **90 dias**. Quem aceita a decisão e paga no prazo do recurso tem a multa reduzida em **50%**."
+    },
+    {
+     "t": "Certidão negativa",
+     "b": "Emitida em até **10 dias**; vale **180 dias**."
+    }
+   ]
+  },
+  {
+   "id": "a-san-1",
+   "materia": "esp",
+   "assunto": "Código Sanitário SP",
+   "titulo": "Código Sanitário do Estado de SP",
+   "cards": [
+    {
+     "t": "A lei",
+     "b": "**Lei 10.083/1998**. Autoridade sanitária: profissionais da vigilância sanitária e epidemiológica em função fiscalizadora, sempre com **credencial**, com **livre acesso** a qualquer dia e hora."
+    },
+    {
+     "t": "Penalidades (art. 112)",
+     "b": "13 tipos, entre eles advertência, prestação de serviços à comunidade, **multa de 10 a 10.000 UFESPs**, apreensão, inutilização, interdição, cancelamento de licença e **intervenção** (máximo de 180 dias)."
+    },
+    {
+     "t": "Atenuantes e agravantes",
+     "b": "Atenuam: infrator **primário**, reparação espontânea, ação não decisiva para o evento. Agravam: dolo ou má-fé, vantagem financeira, omissão, coação, **reincidência**."
+    },
+    {
+     "t": "Prazos",
+     "b": "Auto de infração em no mínimo **3 vias**; defesa em **10 dias**. Auto de multa em **4 vias**; recurso em **10 dias**, com efeito suspensivo **só contra multa**. Multa paga em **30 dias**. Prescrição: **5 anos**."
+    }
+   ]
+  },
+  {
+   "id": "a-lom-1",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "titulo": "Lei Orgânica: Câmara e leis",
+   "cards": [
+    {
+     "t": "A lei",
+     "b": "**Lei Orgânica nº 2.048, de 04/11/2005**. Poderes do município: **Legislativo e Executivo**, independentes e harmônicos. Símbolos: **Brasão, Bandeira e Hino** (arts. 1º e 2º)."
+    },
+    {
+     "t": "A Câmara (arts. 14 e 15)",
+     "b": "Composta de **9 vereadores**, eleitos pelo sistema proporcional, com mandato de **4 anos**. Idade mínima para vereador: **18 anos**."
+    },
+    {
+     "t": "Sessões (arts. 20 e 21)",
+     "b": "São **públicas**, salvo decisão de **2/3** dos vereadores. Abrem com no mínimo **1/4** dos membros. Decisões por maioria de votos, presente a maioria dos membros. Posse dos vereadores às **10h de 1º de janeiro** (art. 22)."
+    },
+    {
+     "t": "Emendas à Lei Orgânica (art. 43)",
+     "b": "Propostas por **1/3** dos vereadores, pelo **Prefeito** ou por **5% dos eleitores**. Votadas em **dois turnos** e aprovadas por **2/3**. Promulgadas pela **Mesa da Câmara**."
+    },
+    {
+     "t": "Leis complementares (art. 45)",
+     "b": "Aprovadas por **maioria absoluta**. São leis complementares: código tributário, **código de obras**, **código de posturas**, plano diretor, regime dos servidores, guarda municipal e criação de cargos."
+    },
+    {
+     "t": "Iniciativa (arts. 44 e 46)",
+     "b": "Qualquer vereador, comissão, o Prefeito ou **5% dos eleitores**. Só o **Prefeito** propõe leis sobre cargos e salários do Executivo, servidores, secretarias e orçamento."
+    },
+    {
+     "t": "Sanção e veto (art. 49)",
+     "b": "O Prefeito tem **15 dias úteis** para vetar. **Silêncio = sanção.** A Câmara aprecia o veto em **30 dias** e só o derruba por **maioria absoluta**. Urgência pedida pelo Prefeito: Câmara decide em **45 dias** (art. 48)."
+    }
+   ]
+  },
+  {
+   "id": "a-lom-2",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "titulo": "Lei Orgânica: Prefeito e servidores",
+   "cards": [
+    {
+     "t": "Prefeito e vice (arts. 56 a 58)",
+     "b": "Idade mínima de **21 anos**. Posse em **1º de janeiro** do ano seguinte à eleição. Se não assumir em **10 dias**, o cargo é declarado vago. Mandato de **4 anos**, com uma reeleição (art. 62)."
+    },
+    {
+     "t": "Substituição (arts. 59 a 61)",
+     "b": "Substitui o Prefeito o **Vice**; na falta dos dois, o **Presidente da Câmara**. Vaga sem vice nos **3 primeiros anos**: nova eleição em **90 dias**. No **último ano**: o Presidente da Câmara completa o mandato."
+    },
+    {
+     "t": "Ausência (art. 63)",
+     "b": "Prefeito e vice não podem sair do município por mais de **15 dias** sem licença da Câmara, sob pena de perder o cargo. Férias de **30 dias** por ano. Subsídio do vice: até **30%** do do Prefeito."
+    },
+    {
+     "t": "Competência do município (art. 10)",
+     "b": "Legislar sobre interesse local; plano diretor; tributos; uso do solo; **conceder, renovar e cassar licença** de funcionamento de estabelecimentos que prejudiquem saúde, higiene, sossego ou segurança."
+    },
+    {
+     "t": "Servidores (arts. 83 e 84)",
+     "b": "Regime jurídico **celetista** (CLT), como o deste concurso. Estabilidade conforme o art. 41 da Constituição. Guarda municipal só por **concurso público** (art. 85)."
+    }
+   ]
+  },
+  {
+   "id": "a-inf-1",
+   "materia": "esp",
+   "assunto": "Informática",
+   "titulo": "Word e Excel 2016",
+   "cards": [
+    {
+     "t": "Atalhos do Word (em português)",
+     "b": "**Ctrl+N** negrito · **Ctrl+I** itálico · **Ctrl+S** sublinhado · **Ctrl+E** centralizar · **Ctrl+J** justificar · **Ctrl+B** salvar · **Ctrl+O** novo documento · **Ctrl+Z** desfazer."
+    },
+    {
+     "t": "Fórmulas do Excel",
+     "b": "Toda fórmula começa com **=**. SOMA, MÉDIA, MÁXIMO, MÍNIMO, SE, CONT.SE, PROCV. Intervalo com dois-pontos: **A1:A4**."
+    },
+    {
+     "t": "Referência absoluta",
+     "b": "**$A$1** não muda ao copiar a fórmula. **A1** é relativa e se ajusta. **$A1** trava só a coluna; **A$1** trava só a linha."
+    },
+    {
+     "t": "Internet e e-mail",
+     "b": "**Cc**: cópia visível. **Cco**: cópia oculta. **Phishing**: mensagem falsa que tenta roubar senha ou dados. **Backup**: cópia de segurança."
+    }
+   ]
+  },
+  {
+   "id": "a-port-1",
+   "materia": "port",
+   "assunto": "Crase",
+   "titulo": "Crase sem medo",
+   "cards": [
+    {
+     "t": "A regra",
+     "b": "Crase = preposição **a** + artigo **a**. Teste: troque por uma palavra masculina. Se virar **ao**, tem crase. \"Fui à feira\" → \"fui ao mercado\"."
+    },
+    {
+     "t": "Nunca tem crase",
+     "b": "Antes de **verbo** (começou a chover), de palavra **masculina** (a pé), de **pronome de tratamento** (a Vossa Senhoria) e entre palavras repetidas (cara a cara)."
+    },
+    {
+     "t": "Sempre tem",
+     "b": "Nas locuções femininas: **às vezes**, **à noite**, **à medida que**, e na indicação de horas: **às 8h30**."
+    }
+   ]
+  },
+  {
+   "id": "a-port-2",
+   "materia": "port",
+   "assunto": "Concordância",
+   "titulo": "Concordância verbal e nominal",
+   "cards": [
+    {
+     "t": "Haver = existir",
+     "b": "Fica no **singular**: \"**Houve** várias denúncias\", \"**Havia** muitos ambulantes\". O verbo **existir** concorda: \"Existem irregularidades\"."
+    },
+    {
+     "t": "Fazer = tempo",
+     "b": "Também no singular: \"**Faz** dois anos que a lei mudou\"."
+    },
+    {
+     "t": "Sujeito depois do verbo",
+     "b": "Ainda concorda: \"**Foram** notificados os comerciantes\". \"**Vendem-se** terrenos\" (= terrenos são vendidos)."
+    }
+   ]
+  },
+  {
+   "id": "a-port-3",
+   "materia": "port",
+   "assunto": "Regência",
+   "titulo": "Regência verbal",
+   "cards": [
+    {
+     "t": "Verbos que pedem \"a\"",
+     "b": "**Assistir** (ver): assistir **ao** jogo. **Obedecer**: obedecer **ao** regulamento. **Chegar** e **ir**: chegar **ao** local (não \"no\")."
+    },
+    {
+     "t": "Preferir",
+     "b": "Prefere-se uma coisa **a** outra. Nunca \"prefiro mais\" nem \"do que\"."
+    },
+    {
+     "t": "Implicar",
+     "b": "No sentido de acarretar, é direto: \"A infração **implica** multa\"."
+    }
+   ]
+  },
+  {
+   "id": "a-port-4",
+   "materia": "port",
+   "assunto": "Acentuação e pontuação",
+   "titulo": "Acentuação e pontuação",
+   "cards": [
+    {
+     "t": "Acentuação",
+     "b": "**Proparoxítonas**: todas (público). **Oxítonas** em a, e, o, em, ens (café, também). **Paroxítonas** em l, n, r, x, ps, ã, ditongo (fácil, hífen). Depois do acordo: **ideia**, **voo**, **itens** sem acento."
+    },
+    {
+     "t": "Vírgula proibida",
+     "b": "**Nunca** entre sujeito e verbo: \"O fiscal municipal, lavrou\" está errado."
+    },
+    {
+     "t": "Vírgula obrigatória",
+     "b": "Separa **vocativo** (\"Maria, feche a porta\") e **aposto** (\"Patrocínio, Terra do Diamante, fica em SP\")."
+    }
+   ]
+  },
+  {
+   "id": "a-port-5",
+   "materia": "port",
+   "assunto": "Classes e figuras",
+   "titulo": "Classes de palavras, \"que\", \"se\" e figuras",
+   "cards": [
+    {
+     "t": "Advérbio",
+     "b": "Modifica verbo, adjetivo ou outro advérbio: \"agiu **rapidamente**\"."
+    },
+    {
+     "t": "O \"se\"",
+     "b": "**Apassivador**: vendem-se casas (= casas são vendidas). **Indeterminador**: precisa-se de fiscais. **Condicional**: se chover, adia. **Reflexivo**: ela se feriu."
+    },
+    {
+     "t": "Conectivos",
+     "b": "**Desde que**, **caso**, **contanto que** = condição. **Embora** = concessão. **Porque**, **já que** = causa."
+    },
+    {
+     "t": "Figuras",
+     "b": "**Metáfora**: comparação sem \"como\". **Metonímia**: troca por relação (ler Machado = ler a obra). **Hipérbole**: exagero. **Eufemismo**: suavização. **Antítese**: ideias opostas."
+    }
+   ]
+  },
+  {
+   "id": "a-mat-1",
+   "materia": "mat",
+   "assunto": "Porcentagem",
+   "titulo": "Porcentagem e descontos",
+   "cards": [
+    {
+     "t": "Fator",
+     "b": "Aumento de 20% = multiplicar por **1,2**. Desconto de 20% = multiplicar por **0,8**."
+    },
+    {
+     "t": "Sucessivos",
+     "b": "Aumento de 20% e depois desconto de 20% **não** volta ao preço: 1,2 × 0,8 = 0,96 (cai 4%)."
+    },
+    {
+     "t": "Quanto é de quanto",
+     "b": "18 acertos em 40 questões: 18 ÷ 40 = 0,45 = **45%**."
+    }
+   ]
+  },
+  {
+   "id": "a-mat-2",
+   "materia": "mat",
+   "assunto": "Regra de três",
+   "titulo": "Razão, proporção e regra de três",
+   "cards": [
+    {
+     "t": "Simples",
+     "b": "Monte as grandezas em colunas. **Diretamente** proporcionais: multiplica cruzado. **Inversamente**: inverta uma coluna antes."
+    },
+    {
+     "t": "Composta",
+     "b": "Mais fiscais → menos dias (inversa). Mais estabelecimentos → mais dias (direta). Ex.: 6 fiscais, 90 locais, 5 dias. Com 4 fiscais e 120 locais: 5 × (120/90) × (6/4) = **10 dias**."
+    }
+   ]
+  },
+  {
+   "id": "a-mat-3",
+   "materia": "mat",
+   "assunto": "Juros",
+   "titulo": "Juros simples e compostos",
+   "cards": [
+    {
+     "t": "Simples",
+     "b": "J = C × i × t. R$ 2.000 a 3% ao mês por 8 meses: J = 480; montante = **R$ 2.480**."
+    },
+    {
+     "t": "Compostos",
+     "b": "M = C × (1 + i)^t. R$ 1.000 a 10% ao ano por 2 anos: 1.000 × 1,1 × 1,1 = **R$ 1.210**."
+    },
+    {
+     "t": "Dica",
+     "b": "Taxa e tempo sempre na **mesma unidade** (mês com mês, ano com ano)."
+    }
+   ]
+  },
+  {
+   "id": "a-mat-4",
+   "materia": "mat",
+   "assunto": "Equações e MMC",
+   "titulo": "Equações, MMC e MDC",
+   "cards": [
+    {
+     "t": "2º grau",
+     "b": "ax² + bx + c = 0. **Soma das raízes = −b/a**; **produto = c/a**. x² − 7x + 10 = 0 → raízes 2 e 5."
+    },
+    {
+     "t": "MMC",
+     "b": "\"Quando vão coincidir de novo?\" é MMC. Visitas a cada 6 e 8 dias → MMC(6, 8) = **24 dias**."
+    },
+    {
+     "t": "MDC",
+     "b": "\"Dividir em partes iguais, o maior possível\" é MDC."
+    }
+   ]
+  },
+  {
+   "id": "a-mat-5",
+   "materia": "mat",
+   "assunto": "Medidas e geometria",
+   "titulo": "Medidas, PA, probabilidade e áreas",
+   "cards": [
+    {
+     "t": "Medidas",
+     "b": "1 m³ = **1.000 litros**. 1 m² = 10.000 cm². 1 km = 1.000 m."
+    },
+    {
+     "t": "Áreas",
+     "b": "Retângulo: base × altura. Triângulo: base × altura ÷ 2. Círculo: π × r². **Pitágoras**: a² = b² + c² (3, 4, 5 e 6, 8, 10)."
+    },
+    {
+     "t": "PA",
+     "b": "aₙ = a₁ + (n − 1) × r. PA (3, 7, 11…): a₂₀ = 3 + 19 × 4 = **79**."
+    },
+    {
+     "t": "Probabilidade",
+     "b": "Casos favoráveis ÷ casos possíveis. 5 bolas azuis em 10: **1/2**."
+    }
+   ]
+  },
+  {
+   "id": "a-ger-1",
+   "materia": "ger",
+   "assunto": "Patrocínio Paulista",
+   "titulo": "Patrocínio Paulista",
+   "cards": [
+    {
+     "t": "Origem",
+     "b": "Surgiu do **garimpo de diamantes** nos rios **Santa Bárbara** e **Sapucaizinho**, no século XIX. Por isso é chamada de **Terra do Diamante**."
+    },
+    {
+     "t": "Nome",
+     "b": "Virou vila em **1885** como **Patrocínio do Sapucaí**. Passou a se chamar Patrocínio Paulista na década de 1940."
+    },
+    {
+     "t": "Localização",
+     "b": "Nordeste paulista, na **divisa com Minas Gerais**, a cerca de **400 km** da capital. Área de uns **603 km²**. Gentílico: **patrocinense**."
+    },
+    {
+     "t": "Apelidos",
+     "b": "**Cidade das Cooperativas**. Integra a **Rota da Fé**, roteiro de peregrinação."
+    }
+   ]
+  },
+  {
+   "id": "a-ger-2",
+   "materia": "ger",
+   "assunto": "Atualidades",
+   "titulo": "Como estudar atualidades",
+   "cards": [
+    {
+     "t": "Quanto vale",
+     "b": "São só **5 questões** valendo 1 ponto cada. Não vale gastar muito tempo aqui."
+    },
+    {
+     "t": "Rotina",
+     "b": "15 minutos por dia de notícias, de **novembro a janeiro**: política, economia, meio ambiente, ciência, saúde e esporte."
+    },
+    {
+     "t": "Foco",
+     "b": "Fatos grandes do Brasil e do mundo, e notícias de **São Paulo** e da **região de Franca**."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "q001",
+   "materia": "esp",
+   "assunto": "Código Sanitário SP",
+   "enunciado": "Segundo o Código Sanitário do Estado de SP (Lei 10.083/1998), o prazo para o autuado apresentar defesa contra o auto de infração é de:",
+   "alternativas": [
+    "5 dias",
+    "10 dias",
+    "15 dias",
+    "30 dias"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 124, V: 10 dias para defesa.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q002",
+   "materia": "esp",
+   "assunto": "Código Sanitário SP",
+   "enunciado": "A pena de multa prevista na Lei 10.083/1998 varia de:",
+   "alternativas": [
+    "1 a 1.000 UFESPs",
+    "10 a 1.000 UFESPs",
+    "10 a 10.000 UFESPs",
+    "100 a 100.000 UFESPs"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 112, III.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q003",
+   "materia": "esp",
+   "assunto": "Código Sanitário SP",
+   "enunciado": "As infrações sanitárias previstas na Lei 10.083/1998 prescrevem em:",
+   "alternativas": [
+    "2 anos",
+    "3 anos",
+    "5 anos",
+    "10 anos"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 139: 5 anos.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q004",
+   "materia": "esp",
+   "assunto": "Código Sanitário SP",
+   "enunciado": "NÃO é penalidade prevista no art. 112 da Lei 10.083/1998:",
+   "alternativas": [
+    "advertência",
+    "intervenção",
+    "prisão administrativa",
+    "inutilização"
+   ],
+   "correta": 2,
+   "explicacao": "Não existe prisão administrativa entre as 13 penalidades.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q005",
+   "materia": "esp",
+   "assunto": "Código Sanitário SP",
+   "enunciado": "É circunstância atenuante da infração sanitária:",
+   "alternativas": [
+    "a reincidência",
+    "ter o infrator agido com dolo",
+    "ser o infrator primário",
+    "ter o infrator obtido vantagem pecuniária"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 117, III. As outras são agravantes (art. 118).",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q006",
+   "materia": "esp",
+   "assunto": "Código Sanitário SP",
+   "enunciado": "No processo sanitário estadual, o recurso tem efeito suspensivo:",
+   "alternativas": [
+    "em todos os casos",
+    "apenas contra a pena de multa",
+    "apenas contra a interdição",
+    "em nenhum caso"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 137.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q007",
+   "materia": "esp",
+   "assunto": "Código Sanitário SP",
+   "enunciado": "A intervenção em estabelecimento, prevista no Código Sanitário de SP, não pode passar de:",
+   "alternativas": [
+    "30 dias",
+    "90 dias",
+    "180 dias",
+    "1 ano"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 114, § 2º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q008",
+   "materia": "esp",
+   "assunto": "Código Sanitário SP",
+   "enunciado": "O auto de infração sanitária deve ser lavrado em, no mínimo:",
+   "alternativas": [
+    "1 via",
+    "2 vias",
+    "3 vias",
+    "4 vias"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 124. O auto de multa é que tem 4 vias.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q009",
+   "materia": "esp",
+   "assunto": "Poder de polícia",
+   "enunciado": "A fiscalização do cumprimento do Código de Posturas pelo município é manifestação do poder:",
+   "alternativas": [
+    "hierárquico",
+    "disciplinar",
+    "de polícia",
+    "judiciário"
+   ],
+   "correta": 2,
+   "explicacao": "Posturas limitam liberdades em nome do interesse público: poder de polícia.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q010",
+   "materia": "esp",
+   "assunto": "Poder de polícia",
+   "enunciado": "A taxa de licença de localização e funcionamento tem como fato gerador:",
+   "alternativas": [
+    "a propriedade do imóvel",
+    "a prestação de serviço de qualquer natureza",
+    "o exercício regular do poder de polícia",
+    "a valorização do imóvel por obra pública"
+   ],
+   "correta": 2,
+   "explicacao": "CTM, art. 109, e CTN, art. 77.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q011",
+   "materia": "esp",
+   "assunto": "Poder de polícia",
+   "enunciado": "O fiscal apreende, sem ordem judicial, a mercadoria de um ambulante sem licença. Esse ato exemplifica o atributo do poder de polícia chamado:",
+   "alternativas": [
+    "autoexecutoriedade",
+    "tipicidade",
+    "hierarquia",
+    "imunidade"
+   ],
+   "correta": 0,
+   "explicacao": "A administração executa sem precisar do Judiciário.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q012",
+   "materia": "esp",
+   "assunto": "Código Tributário",
+   "enunciado": "Pelo Código Tributário de Patrocínio Paulista, quando a Prefeitura limpa um terreno cujo dono descumpriu o Código de Posturas:",
+   "alternativas": [
+    "cobra apenas a taxa de limpeza, que substitui a multa",
+    "aplica apenas a multa",
+    "cobra a taxa de limpeza sem prejuízo da multa",
+    "não pode cobrar nada sem ordem judicial"
+   ],
+   "correta": 2,
+   "explicacao": "CTM, art. 173, § 2º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q013",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "No Excel 2016, as células A1 a A4 contêm 2, 4, 6 e 8. O resultado de =SOMA(A1:A4)/2 é:",
+   "alternativas": [
+    "5",
+    "10",
+    "20",
+    "40"
+   ],
+   "correta": 1,
+   "explicacao": "2 + 4 + 6 + 8 = 20; 20 ÷ 2 = 10.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q014",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "No Word 2016 em português, o atalho Ctrl+N aplica:",
+   "alternativas": [
+    "novo documento",
+    "negrito",
+    "sublinhado",
+    "numeração"
+   ],
+   "correta": 1,
+   "explicacao": "N = negrito. Novo documento é Ctrl+O.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q015",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "A fórmula =A1*$B$1, escrita em C1, é copiada para C2. Em C2 ela fica:",
+   "alternativas": [
+    "=A1*$B$1",
+    "=A2*$B$2",
+    "=A2*$B$1",
+    "=A1*$B$2"
+   ],
+   "correta": 2,
+   "explicacao": "A1 é relativa e muda; $B$1 é absoluta e fica.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q016",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Pelo Código de Posturas, o infrator autuado tem, para apresentar defesa ao Prefeito, o prazo de:",
+   "alternativas": [
+    "5 dias",
+    "8 dias",
+    "10 dias",
+    "15 dias"
+   ],
+   "correta": 0,
+   "explicacao": "Art. 447, § 2º. Não confundir com os 10 dias do Código Sanitário estadual.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q017",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Em geral, o prazo fixado na intimação para cumprir disposição do Código de Posturas não deve passar de:",
+   "alternativas": [
+    "5 dias",
+    "8 dias",
+    "15 dias",
+    "30 dias"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 436, § 2º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q018",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Os terrenos em área urbana devem ser limpos, no mínimo:",
+   "alternativas": [
+    "uma vez por ano",
+    "duas vezes por ano",
+    "a cada três meses",
+    "todo mês"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 139, § 1º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q019",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Nas reincidências, as multas do Código de Posturas:",
+   "alternativas": [
+    "são mantidas no mesmo valor",
+    "aumentam 50%",
+    "são aplicadas em dobro",
+    "são triplicadas"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 462.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q020",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "A licença de localização e funcionamento de um estabelecimento comercial tem validade de:",
+   "alternativas": [
+    "1 ano",
+    "2 anos",
+    "3 anos",
+    "5 anos"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 303, § 2º. Ambulante: até o último dia do ano.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q021",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Cassada a licença, o proprietário não poderá obter outra para o mesmo ramo, salvo revogação da cassação, durante:",
+   "alternativas": [
+    "1 ano",
+    "2 anos",
+    "3 anos",
+    "5 anos"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 306, parágrafo único.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q022",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Mercadorias apreendidas não perecíveis que não forem retiradas do depósito da Prefeitura serão vendidas em leilão após:",
+   "alternativas": [
+    "48 horas",
+    "5 dias",
+    "15 dias",
+    "30 dias"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 471. Perecíveis: 48 horas (art. 472).",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q023",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Quando a Prefeitura executa uma demolição determinada em laudo de vistoria, o responsável paga o custo do serviço acrescido de:",
+   "alternativas": [
+    "10%",
+    "15%",
+    "20%",
+    "50%"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 469, § 5º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q024",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "O ambulante autorizado a se estabelecer temporariamente em lugar público deve ficar, de qualquer esquina, a no mínimo:",
+   "alternativas": [
+    "5 m",
+    "10 m",
+    "15 m",
+    "100 m"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 334, II.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q025",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Com a redação dada pela LC 51/2020, é proibido na área urbana soltar fogos que causem poluição sonora acima de:",
+   "alternativas": [
+    "45 dB",
+    "65 dB",
+    "85 dB",
+    "90 dB"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 178, I.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q026",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Os serviços de alto-falantes podem funcionar, no máximo:",
+   "alternativas": [
+    "2 horas por dia, entre 8h e 20h",
+    "4 horas por dia, entre 10h e 22h",
+    "6 horas por dia, entre 7h e 19h",
+    "sem limite, se licenciados"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 171.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q027",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Se um menor de idade comete infração ao Código de Posturas, a pena recai sobre:",
+   "alternativas": [
+    "o próprio menor",
+    "os pais, tutores ou quem o tem sob guarda",
+    "o Conselho Tutelar",
+    "ninguém, pois incapazes não são punidos"
+   ],
+   "correta": 1,
+   "explicacao": "Arts. 474 e 475.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q028",
+   "materia": "esp",
+   "assunto": "Código Tributário",
+   "enunciado": "Pelo Código Tributário Municipal, as alíquotas do IPTU são de:",
+   "alternativas": [
+    "1% predial e 3% territorial",
+    "3% predial e 1% territorial",
+    "2% para ambos",
+    "1% para ambos"
+   ],
+   "correta": 0,
+   "explicacao": "CTM, art. 24.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q029",
+   "materia": "esp",
+   "assunto": "Código Tributário",
+   "enunciado": "A alíquota do ITBI sobre a parte financiada da compra de um imóvel é de:",
+   "alternativas": [
+    "0,5%",
+    "1%",
+    "2%",
+    "3%"
+   ],
+   "correta": 1,
+   "explicacao": "CTM, art. 52. O restante paga 3%.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q030",
+   "materia": "esp",
+   "assunto": "Código Tributário",
+   "enunciado": "O prazo para impugnar o lançamento de tributo ou multa tributária, contado da intimação, é de:",
+   "alternativas": [
+    "5 dias",
+    "10 dias",
+    "15 dias",
+    "30 dias"
+   ],
+   "correta": 2,
+   "explicacao": "CTM, art. 271.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q031",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Pelo Código de Posturas, alto-falantes não podem funcionar a menos de quantos metros de hospitais e escolas?",
+   "alternativas": [
+    "50 m",
+    "100 m",
+    "300 m",
+    "500 m"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 170, § 1º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q032",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "O nível máximo de ruído permitido para veículos, medido a 7 m de distância, é de:",
+   "alternativas": [
+    "45 dB",
+    "55 dB",
+    "85 dB",
+    "90 dB"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 169, § 1º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q033",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Sobre a lavratura do auto de infração do Código de Posturas, é correto afirmar:",
+   "alternativas": [
+    "depende de duas testemunhas",
+    "independe de testemunhas",
+    "só vale com assinatura do infrator",
+    "deve ser feita pelo Prefeito"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 447, § 1º. Se o infrator recusar a assinatura, a recusa é anotada.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q034",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Compete a quem confirmar os autos de infração e arbitrar as penalidades do Código de Posturas?",
+   "alternativas": [
+    "Ao fiscal autuante",
+    "À Câmara Municipal",
+    "Ao Prefeito",
+    "Ao Poder Judiciário"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 448, ouvido o órgão competente.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q035",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Julgada improcedente a defesa, o infrator deve pagar a multa na tesouraria da Prefeitura no prazo de:",
+   "alternativas": [
+    "5 dias",
+    "10 dias",
+    "15 dias",
+    "30 dias"
+   ],
+   "correta": 0,
+   "explicacao": "Art. 453.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q036",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Material perecível apreendido deve ser reclamado e retirado do depósito em até:",
+   "alternativas": [
+    "24 horas",
+    "48 horas",
+    "5 dias",
+    "8 dias"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 472. Depois vai a leilão ou para casa de caridade.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q037",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "A interdição de gênero alimentício suspeito, para exame bromatológico, não pode ultrapassar:",
+   "alternativas": [
+    "10 dias",
+    "15 dias",
+    "30 dias",
+    "60 dias"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 467, § 2º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q038",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Um estabelecimento sem licença válida será interditado após notificação preliminar com prazo máximo para regularizar de:",
+   "alternativas": [
+    "5 dias",
+    "8 dias",
+    "15 dias",
+    "30 dias"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 304, § 5º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q039",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "A Lei Complementar 10/2013 acrescentou ao Código de Posturas a obrigação de a Prefeitura:",
+   "alternativas": [
+    "cobrar taxa de vistoria anual",
+    "divulgar no site os estabelecimentos com alvará válido",
+    "proibir ambulantes no centro",
+    "criar a comissão do Código de Posturas"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 303-A: lista atualizada diariamente.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q040",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Pelo Código de Posturas, a soltura de balões é proibida:",
+   "alternativas": [
+    "só na área urbana",
+    "só perto de hospitais",
+    "em todo o território do município",
+    "apenas em junho"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 178, II (LC 51/2020).",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q041",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Os prazos previstos no Código de Posturas são contados:",
+   "alternativas": [
+    "em dias úteis, incluindo o dia inicial",
+    "em dias corridos, excluindo o dia inicial",
+    "em dias úteis, excluindo o dia inicial",
+    "em horas"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 477.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q042",
+   "materia": "esp",
+   "assunto": "Código de Posturas",
+   "enunciado": "Isenção de tributos municipais, segundo o Código de Posturas:",
+   "alternativas": [
+    "dispensa a licença de localização",
+    "não implica dispensa da licença de localização",
+    "dispensa a vistoria",
+    "dá direito a horário especial"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 300, § 2º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q043",
+   "materia": "esp",
+   "assunto": "Código Tributário",
+   "enunciado": "O atraso no pagamento da taxa de licença para funcionamento gera multa de:",
+   "alternativas": [
+    "2% ao mês, sem limite",
+    "0,33% ao dia, até 20%",
+    "1% ao dia, até 10%",
+    "10% fixos"
+   ],
+   "correta": 1,
+   "explicacao": "CTM, art. 131, mais correção e juros de 1% ao mês.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q044",
+   "materia": "esp",
+   "assunto": "Código Tributário",
+   "enunciado": "No processo tributário municipal, quem aceita a decisão de 1ª instância e paga no prazo do recurso tem a multa reduzida em:",
+   "alternativas": [
+    "10%",
+    "20%",
+    "30%",
+    "50%"
+   ],
+   "correta": 3,
+   "explicacao": "CTM, art. 296 (exceto a multa moratória).",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q045",
+   "materia": "esp",
+   "assunto": "Código Tributário",
+   "enunciado": "O julgamento em 2ª instância administrativa tributária compete ao:",
+   "alternativas": [
+    "Prefeito",
+    "Diretor do Departamento Jurídico",
+    "Diretor do departamento que lançou o tributo",
+    "Presidente da Câmara"
+   ],
+   "correta": 1,
+   "explicacao": "CTM, art. 299. Prazo: até 90 dias (art. 300).",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q046",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "Pela Lei Orgânica de Patrocínio Paulista, a Câmara Municipal é composta de:",
+   "alternativas": [
+    "7 vereadores",
+    "9 vereadores",
+    "11 vereadores",
+    "13 vereadores"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 15, com mandato de 4 anos.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q047",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "Uma emenda à Lei Orgânica é votada em dois turnos e aprovada por:",
+   "alternativas": [
+    "maioria simples",
+    "maioria absoluta",
+    "dois terços dos membros da Câmara",
+    "três quintos dos membros da Câmara"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 43, § 1º. É promulgada pela Mesa da Câmara.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q048",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "Segundo a Lei Orgânica, o Código de Posturas é:",
+   "alternativas": [
+    "decreto do Prefeito",
+    "lei ordinária",
+    "lei complementar, aprovada por maioria absoluta",
+    "resolução da Câmara"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 45, parágrafo único, III.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q049",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "O Prefeito tem, para vetar um projeto de lei, o prazo de:",
+   "alternativas": [
+    "10 dias corridos",
+    "15 dias úteis",
+    "30 dias corridos",
+    "48 horas"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 49, § 1º. Se ficar em silêncio, o projeto é sancionado (§ 3º).",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q050",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "O veto do Prefeito só pode ser rejeitado pela Câmara pelo voto:",
+   "alternativas": [
+    "da maioria simples",
+    "da maioria absoluta dos membros",
+    "de dois terços dos membros",
+    "unânime"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 49, § 4º, em votação aberta.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q051",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "A idade mínima para ser eleito Prefeito, segundo a Lei Orgânica, é de:",
+   "alternativas": [
+    "18 anos",
+    "21 anos",
+    "30 anos",
+    "35 anos"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 56, parágrafo único. Para vereador: 18 anos.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q052",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "O Prefeito não pode se ausentar do município sem licença da Câmara por período superior a:",
+   "alternativas": [
+    "5 dias",
+    "10 dias",
+    "15 dias",
+    "30 dias"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 63, sob pena de perda do cargo.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q053",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "Vagando o cargo de Prefeito nos três primeiros anos do mandato, sem Vice-Prefeito:",
+   "alternativas": [
+    "o Presidente da Câmara completa o mandato",
+    "haverá eleição 90 dias após a vacância",
+    "o vereador mais votado assume",
+    "o Secretário de Governo assume"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 61, I. No último ano, o Presidente da Câmara completa o período.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q054",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "A iniciativa popular de leis exige assinatura de, no mínimo:",
+   "alternativas": [
+    "1% dos eleitores",
+    "3% dos eleitores",
+    "5% dos eleitores",
+    "10% dos eleitores"
+   ],
+   "correta": 2,
+   "explicacao": "Art. 44.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q055",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "O regime jurídico dos servidores municipais, segundo a Lei Orgânica, é o:",
+   "alternativas": [
+    "estatutário",
+    "celetista",
+    "especial",
+    "temporário"
+   ],
+   "correta": 1,
+   "explicacao": "Art. 83, § 2º.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q056",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "Pela Lei Orgânica, conceder, renovar e cassar licença de funcionamento de estabelecimentos é competência:",
+   "alternativas": [
+    "privativa do Município",
+    "exclusiva do Estado",
+    "da União",
+    "comum a União, Estado e Município"
+   ],
+   "correta": 0,
+   "explicacao": "Art. 10, XX e XXI.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q057",
+   "materia": "esp",
+   "assunto": "Lei Orgânica",
+   "enunciado": "As sessões da Câmara Municipal só podem ser abertas com a presença de, no mínimo:",
+   "alternativas": [
+    "um quarto dos membros",
+    "um terço dos membros",
+    "metade dos membros",
+    "dois terços dos membros"
+   ],
+   "correta": 0,
+   "explicacao": "Art. 21.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q058",
+   "materia": "port",
+   "assunto": "Crase",
+   "enunciado": "O acento indicativo de crase está correto em:",
+   "alternativas": [
+    "Entreguei o auto à fiscal responsável.",
+    "Começou à chover.",
+    "Fomos à pé.",
+    "Refiro-me à Vossa Senhoria."
+   ],
+   "correta": 0,
+   "explicacao": "Entregar a + a fiscal. B, C e D: antes de verbo, palavra masculina e pronome de tratamento não há crase.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q059",
+   "materia": "port",
+   "assunto": "Concordância",
+   "enunciado": "A concordância verbal está correta em:",
+   "alternativas": [
+    "Haviam muitos ambulantes na praça.",
+    "Fazem dois anos que a lei mudou.",
+    "Houve várias denúncias de barulho.",
+    "Existe muitas irregularidades."
+   ],
+   "correta": 2,
+   "explicacao": "Haver (existir) e fazer (tempo) são impessoais; existir concorda: existem.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q060",
+   "materia": "port",
+   "assunto": "Regência",
+   "enunciado": "A regência está de acordo com a norma-padrão em:",
+   "alternativas": [
+    "Prefiro fiscalizar de manhã do que à tarde.",
+    "O fiscal assistiu ao jogo no estádio.",
+    "O comerciante obedeceu o regulamento.",
+    "Chegamos no local cedo."
+   ],
+   "correta": 1,
+   "explicacao": "Preferir algo a algo; obedecer ao; chegar ao.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q061",
+   "materia": "port",
+   "assunto": "Acentuação",
+   "enunciado": "Todas as palavras estão corretamente acentuadas em:",
+   "alternativas": [
+    "fiscalização, público, saúde, também",
+    "juíz, café, ônus, raíz",
+    "idéia, herói, vôo, fácil",
+    "item, ítens, hífen, papel"
+   ],
+   "correta": 0,
+   "explicacao": "Juiz, raiz, ideia, voo e itens não têm acento.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q062",
+   "materia": "port",
+   "assunto": "Pontuação",
+   "enunciado": "A pontuação está correta em:",
+   "alternativas": [
+    "O fiscal municipal, lavrou o auto.",
+    "Maria, feche a porta da sala.",
+    "Os comerciantes da praça, foram notificados.",
+    "A Prefeitura informou que, o prazo terminou."
+   ],
+   "correta": 1,
+   "explicacao": "Vocativo vai entre vírgulas; nunca separe sujeito do verbo.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q063",
+   "materia": "port",
+   "assunto": "Figuras de linguagem",
+   "enunciado": "Em \"Li Machado de Assis nas férias\", há:",
+   "alternativas": [
+    "metáfora",
+    "metonímia",
+    "hipérbole",
+    "eufemismo"
+   ],
+   "correta": 1,
+   "explicacao": "O autor no lugar da obra.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q064",
+   "materia": "port",
+   "assunto": "Que e se",
+   "enunciado": "Em \"Vendem-se terrenos\", a palavra \"se\" é:",
+   "alternativas": [
+    "pronome reflexivo",
+    "conjunção condicional",
+    "partícula apassivadora",
+    "índice de indeterminação do sujeito"
+   ],
+   "correta": 2,
+   "explicacao": "Equivale a \"terrenos são vendidos\".",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q065",
+   "materia": "port",
+   "assunto": "Classes de palavras",
+   "enunciado": "Em \"O fiscal agiu rapidamente\", \"rapidamente\" é:",
+   "alternativas": [
+    "adjetivo",
+    "advérbio",
+    "substantivo",
+    "preposição"
+   ],
+   "correta": 1,
+   "explicacao": "Modifica o verbo, indicando modo.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q066",
+   "materia": "port",
+   "assunto": "Ortografia",
+   "enunciado": "O plural de \"cidadão\" é:",
+   "alternativas": [
+    "cidadões",
+    "cidadães",
+    "cidadãos",
+    "cidadõns"
+   ],
+   "correta": 2,
+   "explicacao": "Cidadão faz cidadãos.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q067",
+   "materia": "port",
+   "assunto": "Conectivos",
+   "enunciado": "Em \"Desde que cumpra o prazo, o comerciante não será multado\", a locução \"desde que\" indica:",
+   "alternativas": [
+    "tempo",
+    "causa",
+    "condição",
+    "concessão"
+   ],
+   "correta": 2,
+   "explicacao": "Desde que + subjuntivo = condição.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q068",
+   "materia": "mat",
+   "assunto": "Porcentagem",
+   "enunciado": "Um produto de R$ 250,00 teve aumento de 20% e, depois, desconto de 20%. O preço final é:",
+   "alternativas": [
+    "R$ 230,00",
+    "R$ 240,00",
+    "R$ 250,00",
+    "R$ 260,00"
+   ],
+   "correta": 1,
+   "explicacao": "250 × 1,2 = 300; 300 × 0,8 = 240.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q069",
+   "materia": "mat",
+   "assunto": "Regra de três",
+   "enunciado": "Seis fiscais vistoriam 90 estabelecimentos em 5 dias. No mesmo ritmo, quatro fiscais vistoriam 120 estabelecimentos em:",
+   "alternativas": [
+    "6 dias",
+    "8 dias",
+    "10 dias",
+    "12 dias"
+   ],
+   "correta": 2,
+   "explicacao": "5 × (120/90) × (6/4) = 10.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q070",
+   "materia": "mat",
+   "assunto": "Juros",
+   "enunciado": "Uma dívida de R$ 2.000,00 a juros simples de 3% ao mês, por 8 meses, gera montante de:",
+   "alternativas": [
+    "R$ 2.240,00",
+    "R$ 2.480,00",
+    "R$ 2.600,00",
+    "R$ 2.800,00"
+   ],
+   "correta": 1,
+   "explicacao": "J = 2.000 × 0,03 × 8 = 480.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q071",
+   "materia": "mat",
+   "assunto": "Juros",
+   "enunciado": "R$ 1.000,00 aplicados a juros compostos de 10% ao ano geram, em 2 anos, montante de:",
+   "alternativas": [
+    "R$ 1.100,00",
+    "R$ 1.200,00",
+    "R$ 1.210,00",
+    "R$ 1.221,00"
+   ],
+   "correta": 2,
+   "explicacao": "1.000 × 1,1 × 1,1 = 1.210.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q072",
+   "materia": "mat",
+   "assunto": "Equações",
+   "enunciado": "A soma das raízes de x² − 7x + 10 = 0 é:",
+   "alternativas": [
+    "3",
+    "5",
+    "7",
+    "10"
+   ],
+   "correta": 2,
+   "explicacao": "Raízes 2 e 5 (soma = −b/a = 7).",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q073",
+   "materia": "mat",
+   "assunto": "MMC e MDC",
+   "enunciado": "Um fiscal visita uma feira a cada 6 dias e outro a cada 8 dias. Se foram juntos hoje, voltarão a se encontrar lá daqui a:",
+   "alternativas": [
+    "14 dias",
+    "16 dias",
+    "24 dias",
+    "48 dias"
+   ],
+   "correta": 2,
+   "explicacao": "MMC(6, 8) = 24.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q074",
+   "materia": "mat",
+   "assunto": "Geometria",
+   "enunciado": "Um terreno retangular de 12 m por 30 m foi limpo pela Prefeitura a R$ 2,50 por m². O valor cobrado é:",
+   "alternativas": [
+    "R$ 105,00",
+    "R$ 360,00",
+    "R$ 720,00",
+    "R$ 900,00"
+   ],
+   "correta": 3,
+   "explicacao": "12 × 30 = 360 m²; 360 × 2,50 = 900.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q075",
+   "materia": "mat",
+   "assunto": "Probabilidade",
+   "enunciado": "Uma urna tem 3 bolas vermelhas, 5 azuis e 2 brancas. A probabilidade de sortear uma azul é:",
+   "alternativas": [
+    "1/5",
+    "3/10",
+    "1/2",
+    "5/8"
+   ],
+   "correta": 2,
+   "explicacao": "5 em 10.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q076",
+   "materia": "mat",
+   "assunto": "PA e PG",
+   "enunciado": "O 20º termo da PA (3, 7, 11, ...) é:",
+   "alternativas": [
+    "76",
+    "79",
+    "80",
+    "83"
+   ],
+   "correta": 1,
+   "explicacao": "3 + 19 × 4 = 79.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q077",
+   "materia": "mat",
+   "assunto": "Medidas",
+   "enunciado": "Uma caixa-d'água mede 2 m por 1,5 m por 1 m. Sua capacidade é de:",
+   "alternativas": [
+    "300 litros",
+    "3.000 litros",
+    "30.000 litros",
+    "4,5 litros"
+   ],
+   "correta": 1,
+   "explicacao": "3 m³ = 3.000 litros.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q078",
+   "materia": "ger",
+   "assunto": "Patrocínio Paulista",
+   "enunciado": "Patrocínio Paulista surgiu a partir de qual atividade econômica?",
+   "alternativas": [
+    "Mineração de ouro",
+    "Garimpo de diamantes",
+    "Extração de sal",
+    "Pesca no Rio Grande"
+   ],
+   "correta": 1,
+   "explicacao": "O garimpo de diamantes nos rios Santa Bárbara e Sapucaizinho deu origem à cidade.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q079",
+   "materia": "ger",
+   "assunto": "Patrocínio Paulista",
+   "enunciado": "Por causa de sua origem, Patrocínio Paulista é conhecida como:",
+   "alternativas": [
+    "Terra do Diamante",
+    "Capital do Café",
+    "Cidade das Águas",
+    "Terra do Ouro"
+   ],
+   "correta": 0,
+   "explicacao": "Referência aos antigos garimpos de diamantes.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q080",
+   "materia": "ger",
+   "assunto": "Patrocínio Paulista",
+   "enunciado": "Quando se tornou vila, em 1885, o município se chamava:",
+   "alternativas": [
+    "Santa Bárbara do Sapucaí",
+    "Patrocínio do Sapucaí",
+    "Vila Franca do Imperador",
+    "Sapucaizinho"
+   ],
+   "correta": 1,
+   "explicacao": "Depois passou a se chamar Patrocínio Paulista.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q081",
+   "materia": "ger",
+   "assunto": "Patrocínio Paulista",
+   "enunciado": "Os rios ligados à história do garimpo em Patrocínio Paulista são:",
+   "alternativas": [
+    "Tietê e Pardo",
+    "Santa Bárbara e Sapucaizinho",
+    "Grande e Paranaíba",
+    "Mogi-Guaçu e Pardo"
+   ],
+   "correta": 1,
+   "explicacao": "Os garimpos se formaram nesses rios, que cortam a cidade.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q082",
+   "materia": "ger",
+   "assunto": "Patrocínio Paulista",
+   "enunciado": "Quem nasce em Patrocínio Paulista é chamado de:",
+   "alternativas": [
+    "patrocinense",
+    "patrocinano",
+    "sapucaiense",
+    "paulistano"
+   ],
+   "correta": 0,
+   "explicacao": "Gentílico: patrocinense.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "q083",
+   "materia": "ger",
+   "assunto": "Patrocínio Paulista",
+   "enunciado": "Patrocínio Paulista fica na região nordeste do Estado de São Paulo e faz divisa com o estado de:",
+   "alternativas": [
+    "Paraná",
+    "Rio de Janeiro",
+    "Minas Gerais",
+    "Mato Grosso do Sul"
+   ],
+   "correta": 2,
+   "explicacao": "O município é limítrofe de Minas Gerais.",
+   "origem": "inedita",
+   "fonte": "Questão inédita (formato da banca)"
+  },
+  {
+   "id": "r084",
+   "materia": "port",
+   "assunto": "Classes de palavras",
+   "enunciado": "No trecho \"José fechou imediatamente a loja...\", a palavra \"imediatamente\" é um advérbio de:",
+   "alternativas": [
+    "intensidade",
+    "tempo",
+    "modo",
+    "lugar",
+    "afirmação"
+   ],
+   "correta": 1,
+   "explicacao": "Indica quando a ação ocorreu: logo, na hora. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r085",
+   "materia": "port",
+   "assunto": "Ortografia",
+   "enunciado": "Assinale a sequência em que todas as palavras estão grafadas corretamente:",
+   "alternativas": [
+    "assassino / execrável / exsudação",
+    "obcessão / assessor / oximoro",
+    "exelso / excessivo / exultante",
+    "exceler / possessivo / exersão",
+    "excrecência / exacerbado / exumassão"
+   ],
+   "correta": 0,
+   "explicacao": "Formas certas: obsessão, excelso, exceler/excursão, excrescência, exumação. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r086",
+   "materia": "port",
+   "assunto": "Formação de palavras",
+   "enunciado": "Em \"Gosto do entardecer na praia\", a palavra \"entardecer\" se forma por:",
+   "alternativas": [
+    "derivação prefixal",
+    "derivação imprópria",
+    "derivação parassintética",
+    "derivação prefixal e sufixal",
+    "derivação sufixal"
+   ],
+   "correta": 2,
+   "explicacao": "Prefixo en- e sufixo -ecer entram juntos em \"tarde\"; não existe \"entarde\" nem \"tardecer\". (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r087",
+   "materia": "mat",
+   "assunto": "MMC e MDC",
+   "enunciado": "Um poste pisca 20 vezes em 2 minutos e outro pisca 30 vezes em 1 minuto. Se piscaram juntos agora, voltarão a piscar juntos após:",
+   "alternativas": [
+    "2 segundos",
+    "4 segundos",
+    "6 segundos",
+    "8 segundos",
+    "10 segundos"
+   ],
+   "correta": 2,
+   "explicacao": "O primeiro pisca a cada 6 s (120 ÷ 20); o segundo, a cada 2 s (60 ÷ 30). MMC(6, 2) = 6. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r088",
+   "materia": "mat",
+   "assunto": "Geometria",
+   "enunciado": "A potência de um ponto P exterior a uma circunferência é 40 cm² e o raio mede 9 cm. A distância de P ao centro é:",
+   "alternativas": [
+    "11 cm",
+    "13 cm",
+    "14 cm",
+    "16 cm",
+    "17 cm"
+   ],
+   "correta": 0,
+   "explicacao": "Potência = d² − r². 40 = d² − 81, então d² = 121 e d = 11. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r089",
+   "materia": "mat",
+   "assunto": "Juros",
+   "enunciado": "R$ 2.500,00 aplicados a juros simples de 5% ao mês, durante 5 meses, geram montante de:",
+   "alternativas": [
+    "R$ 2.550,00",
+    "R$ 4.040,00",
+    "R$ 625,00",
+    "R$ 3.350,00",
+    "R$ 3.125,00"
+   ],
+   "correta": 4,
+   "explicacao": "J = 2.500 × 0,05 × 5 = 625; M = 2.500 + 625 = 3.125. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r090",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "No Windows 7, o principal elemento da Barra de Tarefas é:",
+   "alternativas": [
+    "flip board",
+    "Windows Aero",
+    "relógio",
+    "lixeira",
+    "botão Iniciar"
+   ],
+   "correta": 4,
+   "explicacao": "O botão Iniciar dá acesso a programas e configurações. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r091",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "O aplicativo de edição de imagens que acompanha o Windows 7 é o:",
+   "alternativas": [
+    "XPS",
+    "Lupa",
+    "Paint",
+    "Projetor",
+    "Windows Fax"
+   ],
+   "correta": 2,
+   "explicacao": "Paint é o editor de imagens nativo. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r092",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Ctrl+Z é o atalho do MS Word 2016 para:",
+   "alternativas": [
+    "copiar um texto selecionado",
+    "desfazer ações",
+    "refazer ações",
+    "recortar um texto selecionado",
+    "salvar um documento"
+   ],
+   "correta": 1,
+   "explicacao": "Ctrl+Z desfaz; refazer é Ctrl+R (no Word em português). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r093",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "No PowerPoint 2016, a extensão .potx representa:",
+   "alternativas": [
+    "modelo de apresentação",
+    "documento padrão do PowerPoint",
+    "arquivo habilitado para macros",
+    "arquivo aberto só para formatação",
+    "arquivo do LibreOffice Impress"
+   ],
+   "correta": 0,
+   "explicacao": ".potx = modelo; .pptx = apresentação; .pptm = com macros. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r094",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Pelo Código de Defesa do Consumidor: I) produto é qualquer bem, móvel ou imóvel, material ou imaterial; II) consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final; III) serviço é qualquer atividade fornecida no mercado mediante remuneração, inclusive bancária, financeira, de crédito e securitária, salvo as trabalhistas. Está correto o que se afirma em:",
+   "alternativas": [
+    "I, apenas",
+    "I e II, apenas",
+    "III, apenas",
+    "II e III, apenas",
+    "I, II e III"
+   ],
+   "correta": 4,
+   "explicacao": "CDC, arts. 2º e 3º, §§ 1º e 2º. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r095",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Entre os instrumentos da Política Nacional das Relações de Consumo, o destinado à solução de litígios de consumo é:",
+   "alternativas": [
+    "núcleos de conciliação de superendividamento",
+    "Juizados Especiais de Pequenas Causas e Varas Especializadas",
+    "estímulo às associações de defesa do consumidor",
+    "Promotorias de Justiça de Defesa do Consumidor",
+    "delegacias especializadas"
+   ],
+   "correta": 1,
+   "explicacao": "CDC, art. 5º, IV. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r096",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "É INCORRETO afirmar, pelo Código de Defesa do Consumidor:",
+   "alternativas": [
+    "O fornecedor poderá colocar no mercado produto que sabe apresentar alto grau de nocividade ou periculosidade.",
+    "O fornecedor de produtos potencialmente nocivos deve informar de forma ostensiva sobre a nocividade.",
+    "O fornecedor deve higienizar equipamentos colocados à disposição do consumidor.",
+    "O fabricante responde, independentemente de culpa, por defeitos de projeto e fabricação.",
+    "Produtos não acarretarão riscos à saúde, exceto os normais e previsíveis."
+   ],
+   "correta": 0,
+   "explicacao": "CDC, art. 10: o fornecedor NÃO poderá colocar no mercado esse produto. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r097",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Pela NBR 9050:2020, o espaço livre de obstáculos destinado ao uso de todas as pessoas é a:",
+   "alternativas": [
+    "área de circulação",
+    "área de aproximação",
+    "área de refúgio",
+    "área de resgate",
+    "área de transferência"
+   ],
+   "correta": 0,
+   "explicacao": "Definição de área de circulação na NBR 9050. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r098",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Pela NBR 9050:2020, \"fatores de impedância\" são:",
+   "alternativas": [
+    "bens de utilidade pública para o funcionamento da cidade",
+    "dispositivos de comando, como interruptores e torneiras",
+    "elemento junto aos limites do piso que define a área de circulação",
+    "indicação luminosa de permissão de travessia",
+    "elementos que interferem no fluxo de pedestres, como mobiliário urbano, vitrines e postes"
+   ],
+   "correta": 4,
+   "explicacao": "As outras alternativas definem equipamento urbano, controle, guia de balizamento e foco de pedestres. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r099",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "A Política Nacional do Meio Ambiente (Lei 6.938/1981) visará à compatibilização:",
+   "alternativas": [
+    "dos recursos ambientais com sua utilização racional",
+    "de pesquisas e tecnologias nacionais",
+    "do desenvolvimento econômico-social com a preservação da qualidade do meio ambiente e do equilíbrio ecológico",
+    "de critérios e padrões de qualidade ambiental",
+    "de áreas prioritárias de ação governamental"
+   ],
+   "correta": 2,
+   "explicacao": "Lei 6.938/1981, art. 4º, I. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r100",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Nos crimes ambientais (Lei 9.605/1998), NÃO é pena restritiva de direitos:",
+   "alternativas": [
+    "prestação pecuniária",
+    "interdição temporária de direitos",
+    "prestação de serviços à comunidade",
+    "extradição",
+    "suspensão parcial ou total de atividades"
+   ],
+   "correta": 3,
+   "explicacao": "Lei 9.605/1998, art. 8º. Extradição não é pena. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r101",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "A Lei 12.305/2010 chama de ______ o ato contratual entre poder público e fabricantes, importadores, distribuidores ou comerciantes para implantar a responsabilidade compartilhada pelo ciclo de vida do produto:",
+   "alternativas": [
+    "acordo setorial",
+    "acordo produtivo",
+    "acordo consumptivo",
+    "acordo geracional",
+    "acordo liquefeito"
+   ],
+   "correta": 0,
+   "explicacao": "Lei 12.305/2010, art. 3º, I. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r102",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "A Lei 12.305/2010 chama de ______ o conjunto de ações nas etapas de coleta, transporte, transbordo, tratamento e destinação final dos resíduos, conforme plano de gestão ou de gerenciamento:",
+   "alternativas": [
+    "controle social de resíduos",
+    "destinação final adequada",
+    "geradores de resíduos",
+    "gerenciamento de resíduos sólidos",
+    "gestão integrada de resíduos sólidos"
+   ],
+   "correta": 3,
+   "explicacao": "Lei 12.305/2010, art. 3º, X. Gestão integrada (XI) é a que considera dimensões política, econômica, ambiental, cultural e social. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r103",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "No extintor, a classe C (equipamentos elétricos) é indicada por:",
+   "alternativas": [
+    "círculo azul",
+    "quadrado vermelho",
+    "triângulo verde",
+    "estrela amarela",
+    "quadrado preto"
+   ],
+   "correta": 0,
+   "explicacao": "A: triângulo verde; B: quadrado vermelho; C: círculo azul; D: estrela amarela. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2022 · Pref. Laranjal Paulista/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r104",
+   "materia": "port",
+   "assunto": "Pontuação",
+   "enunciado": "Em \"Ela disse: — Mamãe, sou eu a menina que corre sobre os rios\", a palavra \"Mamãe\" é:",
+   "alternativas": [
+    "objeto indireto",
+    "aposto",
+    "vocativo",
+    "objeto direto",
+    "verbo de ligação"
+   ],
+   "correta": 2,
+   "explicacao": "Chamamento à pessoa com quem se fala, isolado por vírgula. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r105",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Uma característica fundamental da computação em nuvem é:",
+   "alternativas": [
+    "a necessidade de gerenciar servidores e data centers",
+    "a dependência de hardware local",
+    "a alocação dinâmica de recursos conforme a demanda",
+    "a exigência de banda ilimitada",
+    "a exclusão de redes externas"
+   ],
+   "correta": 2,
+   "explicacao": "Elasticidade: o recurso cresce ou diminui conforme o uso. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r106",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Sobre segurança em navegadores: I) manter navegador e extensões atualizados é importante; II) ignorar alertas de certificado inválido é uma falha de segurança; III) salvar senhas em gerenciador de senhas é prática insegura; IV) bloquear pop-ups é recomendado. Está correto apenas:",
+   "alternativas": [
+    "II e III",
+    "I, II e III",
+    "I e IV",
+    "II, III e IV",
+    "I, II e IV"
+   ],
+   "correta": 4,
+   "explicacao": "Gerenciador de senhas é prática recomendada, então III está errada. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r107",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Em segurança digital, um worm é:",
+   "alternativas": [
+    "um termo coloquial para firewall",
+    "um programa que protege contra todo malware",
+    "um vírus que só se espalha anexado a e-mails",
+    "um malware que se espalha automaticamente, sem intervenção humana",
+    "um software para melhorar o desempenho"
+   ],
+   "correta": 3,
+   "explicacao": "O worm se replica sozinho pela rede. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r108",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "No Google, o operador que restringe a pesquisa a um site específico é:",
+   "alternativas": [
+    "site:",
+    "local:",
+    "place:",
+    "page:",
+    "only:"
+   ],
+   "correta": 0,
+   "explicacao": "Exemplo: fiscal de posturas site:gov.br. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r109",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Sobre antivírus, é correto afirmar:",
+   "alternativas": [
+    "só são eficazes contra vírus",
+    "protegem contra todas as ameaças sem outras práticas",
+    "não precisam de atualização",
+    "são programas para detectar e remover malware",
+    "não afetam o desempenho"
+   ],
+   "correta": 3,
+   "explicacao": "Precisam de atualização e não dispensam boas práticas. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r110",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Engenharia social, em segurança cibernética, é:",
+   "alternativas": [
+    "um método de criptografia",
+    "uma técnica de invasão por software",
+    "manipular pessoas para obter informações ou acesso",
+    "sobrecarregar servidores com tráfego",
+    "rastrear a localização de um usuário"
+   ],
+   "correta": 2,
+   "explicacao": "Ataca a pessoa, não a máquina. O phishing é um exemplo. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r111",
+   "materia": "esp",
+   "assunto": "Poder de polícia",
+   "enunciado": "O princípio pelo qual a administração atua com presteza, rendimento, economicidade e sem burocracia é o da:",
+   "alternativas": [
+    "motivação",
+    "segurança jurídica",
+    "publicidade",
+    "moralidade",
+    "eficiência"
+   ],
+   "correta": 4,
+   "explicacao": "CF, art. 37, caput (LIMPE: legalidade, impessoalidade, moralidade, publicidade, eficiência). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r112",
+   "materia": "esp",
+   "assunto": "Poder de polícia",
+   "enunciado": "Sobre a organização da Administração Pública: I) Secretarias de Educação e Saúde integram a administração direta; II) o Gabinete do Prefeito integra a administração indireta; III) autarquias e fundações públicas têm personalidade jurídica própria e são administração indireta. Está correto:",
+   "alternativas": [
+    "III apenas",
+    "I e III apenas",
+    "II apenas",
+    "I apenas",
+    "I, II e III"
+   ],
+   "correta": 1,
+   "explicacao": "Gabinete do Prefeito é órgão da administração direta. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r113",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "O instrumento que define regras de licenciamento, fiscalização e autuação de obras, garantindo segurança e habitabilidade do ambiente construído, é o:",
+   "alternativas": [
+    "Código de Obras e Edificações",
+    "Plano Diretor",
+    "Código de Posturas",
+    "Plano de Mobilidade",
+    "Plano de Uso do Solo"
+   ],
+   "correta": 0,
+   "explicacao": "Obras ficam no Código de Obras; o de Posturas cuida de higiene, sossego e funcionamento. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas",
+   "extra": true
+  },
+  {
+   "id": "r114",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Pelo Estatuto da Cidade, o plano diretor é obrigatório para cidades com mais de 20 mil habitantes. Ele é facultativo para cidades:",
+   "alternativas": [
+    "com áreas suscetíveis a inundações",
+    "de especial interesse turístico",
+    "com menos de vinte mil habitantes (fora das demais hipóteses legais)",
+    "de regiões metropolitanas",
+    "com áreas suscetíveis a deslizamentos"
+   ],
+   "correta": 2,
+   "explicacao": "Lei 10.257/2001, art. 41. As demais hipóteses tornam o plano obrigatório. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas",
+   "extra": true
+  },
+  {
+   "id": "r115",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "O EPI óculos de segurança modelo ampla visão é indicado contra:",
+   "alternativas": [
+    "agentes térmicos",
+    "partículas volantes",
+    "choques elétricos",
+    "pressão sonora",
+    "vapores orgânicos"
+   ],
+   "correta": 1,
+   "explicacao": "Protege os olhos de partículas projetadas. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2023 · Pref. Cabaceiras/PB · Agente Fiscal de Obras e Posturas",
+   "extra": true
+  },
+  {
+   "id": "r116",
+   "materia": "port",
+   "assunto": "Ortografia",
+   "enunciado": "Em qual alternativa a separação silábica está ERRADA?",
+   "alternativas": [
+    "Sub-ma-ri-no",
+    "Ad-je-ti-vo",
+    "E-cli-pse",
+    "Rap-to"
+   ],
+   "correta": 2,
+   "explicacao": "O certo é e-clip-se. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Pref. Lontras/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r117",
+   "materia": "port",
+   "assunto": "Ortografia",
+   "enunciado": "Indique a palavra escrita de forma INCORRETA:",
+   "alternativas": [
+    "Sujestão",
+    "Alforje",
+    "Ultraje",
+    "Berinjela"
+   ],
+   "correta": 0,
+   "explicacao": "O certo é sugestão, com g. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Pref. Lontras/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r118",
+   "materia": "port",
+   "assunto": "Regência",
+   "enunciado": "Na frase \"A família chamou o médico\", o verbo \"chamou\" é:",
+   "alternativas": [
+    "transitivo indireto",
+    "intransitivo",
+    "transitivo direto e indireto",
+    "transitivo direto"
+   ],
+   "correta": 3,
+   "explicacao": "Chamar alguém: objeto direto sem preposição. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Pref. Lontras/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r119",
+   "materia": "mat",
+   "assunto": "Operações",
+   "enunciado": "O resultado de (25) − (−25) − (25) é:",
+   "alternativas": [
+    "75",
+    "50",
+    "25",
+    "0"
+   ],
+   "correta": 2,
+   "explicacao": "25 + 25 − 25 = 25. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Pref. Lontras/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r120",
+   "materia": "mat",
+   "assunto": "Raciocínio",
+   "enunciado": "Quantas vezes o algarismo 4 aparece ao escrever os números de 1 a 327?",
+   "alternativas": [
+    "62",
+    "63",
+    "65",
+    "44"
+   ],
+   "correta": 1,
+   "explicacao": "Nas unidades: 4, 14, ..., 324 = 33 vezes. Nas dezenas: 40–49, 140–149, 240–249 = 30 vezes. Total 63. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Pref. Lontras/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r121",
+   "materia": "mat",
+   "assunto": "Medidas",
+   "enunciado": "180 km/h correspondem a:",
+   "alternativas": [
+    "36 m/s",
+    "50 m/s",
+    "45 m/s",
+    "90 m/s"
+   ],
+   "correta": 1,
+   "explicacao": "Divida por 3,6: 180 ÷ 3,6 = 50. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Pref. Lontras/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r122",
+   "materia": "mat",
+   "assunto": "Equações",
+   "enunciado": "Um pai deu 5 laranjas a cada filho e ficou com 30. Se desse 7 a cada um, ficaria com 4. Quantos filhos ele tem?",
+   "alternativas": [
+    "15",
+    "10",
+    "6",
+    "13"
+   ],
+   "correta": 3,
+   "explicacao": "5f + 30 = 7f + 4, então 2f = 26 e f = 13. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Pref. Lontras/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r123",
+   "materia": "mat",
+   "assunto": "Geometria",
+   "enunciado": "Um projeto na escala 1:50 mostra um cômodo de 7 cm por 9 cm. A área real é de:",
+   "alternativas": [
+    "35,44 m²",
+    "15,75 m²",
+    "63,00 m²",
+    "39,00 m²"
+   ],
+   "correta": 1,
+   "explicacao": "7 cm × 50 = 3,5 m; 9 cm × 50 = 4,5 m; 3,5 × 4,5 = 15,75 m². (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2022 · Pref. Princesa/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r124",
+   "materia": "mat",
+   "assunto": "Geometria",
+   "enunciado": "Um lote tem forma de losango, com diagonal maior de 54 m, o triplo da menor. A área de metade do lote é:",
+   "alternativas": [
+    "364,5 m²",
+    "729,0 m²",
+    "243,0 m²",
+    "486,0 m²"
+   ],
+   "correta": 2,
+   "explicacao": "Diagonal menor = 18 m. Área = 54 × 18 ÷ 2 = 486 m²; metade = 243 m². (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2022 · Pref. Princesa/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r125",
+   "materia": "port",
+   "assunto": "Concordância",
+   "enunciado": "Na oração \"Há coisas bonitas na vida\", o sujeito é:",
+   "alternativas": [
+    "simples",
+    "inexistente",
+    "oculto",
+    "indeterminado"
+   ],
+   "correta": 1,
+   "explicacao": "Haver no sentido de existir é impessoal: oração sem sujeito. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2022 · Pref. Princesa/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r126",
+   "materia": "port",
+   "assunto": "Ortografia",
+   "enunciado": "O uso do \"porquê\" está correto em:",
+   "alternativas": [
+    "Precisaria saber porque meu celular não despertou.",
+    "Será que o meu chefe me demitiu porque eu não cumpri a meta?",
+    "As estradas porque passamos foram asfaltadas.",
+    "Qual é o por que de tantas situações?"
+   ],
+   "correta": 1,
+   "explicacao": "Porque explica a causa. Nas outras: por que (A e C) e porquê (D). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2022 · Pref. Princesa/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r127",
+   "materia": "ger",
+   "assunto": "História do Brasil",
+   "enunciado": "A Constituição de 1988 teve como um de seus principais ícones o presidente da Assembleia Constituinte:",
+   "alternativas": [
+    "Ulysses Guimarães",
+    "Tancredo Neves",
+    "José Sarney",
+    "Leonel Brizola"
+   ],
+   "correta": 0,
+   "explicacao": "Ulysses Guimarães presidiu a Constituinte e chamou o texto de Constituição Cidadã. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2022 · Pref. Princesa/SC · Agente Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r128",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Pela NBR 9050, a indicação luminosa de permissão ou impedimento de travessia na faixa apropriada é o:",
+   "alternativas": [
+    "guia de balizamento",
+    "faixa elevada",
+    "foco de pedestres",
+    "linha guia"
+   ],
+   "correta": 2,
+   "explicacao": "É o semáforo de pedestres. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2022 · Pref. Princesa/SC · Agente Fiscal de Obras e Posturas",
+   "extra": true
+  },
+  {
+   "id": "r129",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "NÃO é fator gerador de acidentes de trabalho:",
+   "alternativas": [
+    "depósitos organizados e limpos",
+    "iluminação inadequada",
+    "máquinas sem proteção",
+    "arranjo físico inadequado"
+   ],
+   "correta": 0,
+   "explicacao": "Organização e limpeza previnem acidentes. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "2022 · Pref. Princesa/SC · Agente Fiscal de Obras e Posturas",
+   "extra": true
+  },
+  {
+   "id": "r130",
+   "materia": "port",
+   "assunto": "Crase",
+   "enunciado": "Preencha as lacunas: \"A má postura pode tornar a pessoa mais vulnerável ___ violência urbana\" e \"causa estresse nos ossos ___ ponto de alterar sua forma\".",
+   "alternativas": [
+    "a – a",
+    "a – à",
+    "à – à",
+    "à – a"
+   ],
+   "correta": 3,
+   "explicacao": "Vulnerável a + a violência = à. \"A ponto de\": antes de palavra masculina não há crase. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r131",
+   "materia": "port",
+   "assunto": "Ortografia",
+   "enunciado": "Marque C (certo) ou E (errado) para o uso das palavras: ( ) O juiz absorveu o réu. ( ) O rapaz ascendeu profissionalmente com muita rapidez. ( ) Sustamos o empréstimo bancário por ora.",
+   "alternativas": [
+    "C – E – C",
+    "E – C – C",
+    "E – E – E",
+    "E – C – E"
+   ],
+   "correta": 1,
+   "explicacao": "O juiz absolve (inocenta); absorver é sugar. Ascender = subir. Sustar = suspender. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r132",
+   "materia": "port",
+   "assunto": "Concordância",
+   "enunciado": "A concordância está correta em:",
+   "alternativas": [
+    "Rezem baixos, por favor.",
+    "Vocês falaram bonito.",
+    "É precisa muita paciência para aguentar tudo isso.",
+    "Feito a denúncia, recolheram-se a seus recintos."
+   ],
+   "correta": 1,
+   "explicacao": "\"Bonito\" e \"baixo\" funcionam como advérbio e não variam. O certo seria \"é preciso\" e \"feita a denúncia\". (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r133",
+   "materia": "port",
+   "assunto": "Concordância",
+   "enunciado": "Quanto à concordância nominal: I) A paciente parece meia confusa. II) É proibido entrada de alimentos. III) Há motivos bastantes para nova cirurgia. IV) Ela mesmo compareceu. Estão corretas:",
+   "alternativas": [
+    "I e II",
+    "I e III",
+    "II e III",
+    "II e IV"
+   ],
+   "correta": 2,
+   "explicacao": "Meio (advérbio) não varia; \"ela mesma\". Sem artigo, \"é proibido entrada\" está certo; \"bastantes\" concorda com motivos. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r134",
+   "materia": "port",
+   "assunto": "Conectivos",
+   "enunciado": "I) \"Mas\" introduz oração coordenada adversativa, com ideia de oposição. II) \"Se\" pode introduzir oração subordinada condicional. Está correto:",
+   "alternativas": [
+    "somente o item I",
+    "os itens I e II",
+    "nenhum dos itens",
+    "somente o item II"
+   ],
+   "correta": 1,
+   "explicacao": "Os dois conceitos estão certos. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r135",
+   "materia": "port",
+   "assunto": "Ortografia",
+   "enunciado": "Após o Acordo Ortográfico, a sequência com hífen empregado corretamente é:",
+   "alternativas": [
+    "intraracial / antissocial / alémtúmulo / vice-almirante",
+    "auto-escola / minissaia / mandachuva / portarretrato",
+    "hiperrenquitado / semiaberto / microondas / auto-peça",
+    "anti-imperialista / pré-história / semianalfabeto / autoaprendizagem"
+   ],
+   "correta": 3,
+   "explicacao": "Hífen quando o prefixo termina com a mesma vogal que inicia a palavra (anti-imperialista); autoescola, micro-ondas e autopeça. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r136",
+   "materia": "mat",
+   "assunto": "Porcentagem",
+   "enunciado": "O quilo da tilápia passou de R$ 25,00 para R$ 28,00. A variação percentual foi de:",
+   "alternativas": [
+    "12%",
+    "15%",
+    "18%",
+    "21%"
+   ],
+   "correta": 0,
+   "explicacao": "Aumento de 3 sobre 25: 3 ÷ 25 = 0,12. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r137",
+   "materia": "mat",
+   "assunto": "Equações",
+   "enunciado": "Camila encheu 6 vezes um copo grande (x) e 3 vezes um copo pequeno (y) e obteve 2 litros. A equação certa é:",
+   "alternativas": [
+    "x/6 + y/3 = 2",
+    "6(x + 3y) = 2",
+    "3(6x + 2y) = 2",
+    "6x + 3y = 2"
+   ],
+   "correta": 3,
+   "explicacao": "Seis copos grandes mais três pequenos somam 2 litros. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r138",
+   "materia": "mat",
+   "assunto": "Equações",
+   "enunciado": "Um time foi campeão invicto em 12 jogos e fez 28 pontos (vitória = 3, empate = 1). Foram:",
+   "alternativas": [
+    "6 vitórias e 6 empates",
+    "7 vitórias e 5 empates",
+    "8 vitórias e 4 empates",
+    "9 vitórias e 3 empates"
+   ],
+   "correta": 2,
+   "explicacao": "v + e = 12 e 3v + e = 28. Subtraindo: 2v = 16, v = 8. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r139",
+   "materia": "mat",
+   "assunto": "Regra de três",
+   "enunciado": "Um valor diário fixo é dividido entre os funcionários. Com 4 contratados, cada um recebe R$ 350,00. Para cada um receber R$ 175,00, é preciso contratar:",
+   "alternativas": [
+    "6 pessoas",
+    "7 pessoas",
+    "8 pessoas",
+    "9 pessoas"
+   ],
+   "correta": 2,
+   "explicacao": "Total = 4 × 350 = 1.400. 1.400 ÷ 175 = 8 (grandezas inversas). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r140",
+   "materia": "mat",
+   "assunto": "Geometria",
+   "enunciado": "A aresta de um cubo com o mesmo volume de um bloco de 16 cm × 8 cm × 4 cm é:",
+   "alternativas": [
+    "8 cm",
+    "9 cm",
+    "11 cm",
+    "12 cm"
+   ],
+   "correta": 0,
+   "explicacao": "Volume = 512 cm³ = 8³. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r141",
+   "materia": "mat",
+   "assunto": "Raciocínio",
+   "enunciado": "Sobre os números naturais, é INCORRETO afirmar:",
+   "alternativas": [
+    "Todo natural tem sucessor.",
+    "Todo natural, exceto o zero, tem antecessor.",
+    "A soma de dois naturais é sempre natural.",
+    "O produto de dois naturais nem sempre é natural."
+   ],
+   "correta": 3,
+   "explicacao": "O produto de naturais é sempre natural. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r142",
+   "materia": "mat",
+   "assunto": "Raciocínio",
+   "enunciado": "Vírus dobram de volume a cada minuto e enchem o recipiente em 6 minutos. A metade estava ocupada em:",
+   "alternativas": [
+    "3 minutos",
+    "4 minutos",
+    "5 minutos",
+    "6 minutos"
+   ],
+   "correta": 2,
+   "explicacao": "Se dobra a cada minuto, um minuto antes de encher estava na metade. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r143",
+   "materia": "mat",
+   "assunto": "Equações",
+   "enunciado": "A soma dos quadrados de dois números é 1.600 e o menor é 24. O maior é:",
+   "alternativas": [
+    "26",
+    "28",
+    "30",
+    "32"
+   ],
+   "correta": 3,
+   "explicacao": "1.600 − 576 = 1.024 = 32². (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r144",
+   "materia": "esp",
+   "assunto": "Poder de polícia",
+   "enunciado": "Sobre penalidades em um código de posturas, é correto afirmar:",
+   "alternativas": [
+    "A multa é aplicada em grau mínimo, médio ou máximo, considerando a gravidade, as atenuantes ou agravantes e os antecedentes do infrator.",
+    "Reincidente específico é quem já foi punido por qualquer outra infração.",
+    "A multa desobriga o infrator de cumprir a exigência.",
+    "A multa isenta o infrator de reparar o dano."
+   ],
+   "correta": 0,
+   "explicacao": "Mesma regra do Código de Posturas de Patrocínio Paulista (arts. 453, 462 e 464). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r145",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "No Word, imagens e gráficos são adicionados a um documento pela guia:",
+   "alternativas": [
+    "Revisão",
+    "Exibir",
+    "Inserir",
+    "Layout"
+   ],
+   "correta": 2,
+   "explicacao": "A guia Inserir reúne imagens, gráficos, tabelas e formas. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r146",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Com A1 = 3, A2 = 6 e A3 = 9, a fórmula =MÉDIA(SOMA(A1:A3); SOMA(A1:A2); SOMA(A2:A3)) retorna:",
+   "alternativas": [
+    "14",
+    "18",
+    "28",
+    "34"
+   ],
+   "correta": 0,
+   "explicacao": "Somas: 18, 9 e 15. Média = 42 ÷ 3 = 14. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "AGIRH 2020 · Pref. Cachoeira Paulista/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r147",
+   "materia": "port",
+   "assunto": "Crase",
+   "enunciado": "Na frase \"Só assim serão garantidas saúde mental e qualidade de vida àqueles que cuidam dos seus e precisam cuidar de si mesmos\", as expressões \"àqueles\" e \"mesmos\" podem ser trocadas, segundo a norma, por:",
+   "alternativas": [
+    "à quem … próprios",
+    "à pessoas … próprios",
+    "à quem … próprio",
+    "às pessoas … próprias",
+    "à qualquer pessoa … próprios"
+   ],
+   "correta": 3,
+   "explicacao": "Crase antes de \"pessoas\" (feminino plural, com artigo); \"próprias\" concorda com pessoas. Nunca há crase antes de quem ou qualquer. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r148",
+   "materia": "mat",
+   "assunto": "Regra de três",
+   "enunciado": "Uma área de 14.200 m² foi coberta em três dias. No 1º, 3 homens em 2 horas cobriram 426 m². No 2º, 2 homens trabalharam 2h30. No 3º, 27 homens terminaram. Com a mesma produtividade, eles trabalharam:",
+   "alternativas": [
+    "6 horas",
+    "6h30",
+    "8 horas",
+    "7h30",
+    "7 horas"
+   ],
+   "correta": 4,
+   "explicacao": "426 ÷ 6 homem-hora = 71 m² por homem-hora. Dia 2: 5 × 71 = 355. Faltam 14.200 − 781 = 13.419 m² = 189 homem-hora; 189 ÷ 27 = 7 h. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r149",
+   "materia": "mat",
+   "assunto": "Juros",
+   "enunciado": "Um produto foi pago em 3 parcelas (1ª no ato, as outras nos dois meses seguintes). O saldo devedor cresce 10% ao mês. O cliente pagou R$ 330, R$ 330 e R$ 726. A soma dos algarismos do preço à vista V é:",
+   "alternativas": [
+    "5",
+    "8",
+    "6",
+    "7",
+    "9"
+   ],
+   "correta": 2,
+   "explicacao": "726 ÷ 1,1 = 660; (660 + 330) ÷ 1,1 = 900; V = 900 + 330 = 1.230. 1 + 2 + 3 + 0 = 6. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r150",
+   "materia": "mat",
+   "assunto": "Equações",
+   "enunciado": "Uma empresa ficou com 60 funcionários após contratar novos. Cada novo teve um encontro com cada veterano: 416 encontros. Os novos eram menos que os veteranos. Com 2 novos a menos, os encontros seriam:",
+   "alternativas": [
+    "308",
+    "312",
+    "216",
+    "165",
+    "265"
+   ],
+   "correta": 1,
+   "explicacao": "n(60 − n) = 416 dá n = 8 e 52 veteranos. Com 6 novos: 6 × 52 = 312. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r151",
+   "materia": "mat",
+   "assunto": "Equações",
+   "enunciado": "Um computador processou 3.300 testes em 52h30, sem parar. Cada teste A leva 1min04s e cada teste B, 49 s. A diferença entre as quantidades de A e B é:",
+   "alternativas": [
+    "340",
+    "360",
+    "380",
+    "400",
+    "420"
+   ],
+   "correta": 0,
+   "explicacao": "64A + 49B = 189.000 s e A + B = 3.300. Então 15A = 27.300: A = 1.820, B = 1.480. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r152",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "No Word 2016, uma palavra está em Negrito e Itálico e deve ficar só Sublinhada. Com a palavra selecionada, clica-se:",
+   "alternativas": [
+    "no ícone Sublinhado e depois nos ícones Negrito e Itálico",
+    "no ícone Sublinhado, apenas",
+    "nos ícones Negrito e Itálico, apenas",
+    "no Pincel de Formatação e depois em Sublinhado",
+    "em Sublinhado e depois em Limpar Toda a Formatação"
+   ],
+   "correta": 0,
+   "explicacao": "Negrito e Itálico funcionam como liga e desliga. Limpar formatação apagaria o sublinhado também. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r153",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Ao limitar um Google Forms a 1 resposta por pessoa, o Google:",
+   "alternativas": [
+    "exige compartilhamento só dentro da organização",
+    "aceita só respostas por wi-fi",
+    "só funciona no Chrome",
+    "usa o IP para impedir duplicidade",
+    "exige que o respondente faça login no Google"
+   ],
+   "correta": 4,
+   "explicacao": "O controle é feito pela conta Google de quem responde. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r154",
+   "materia": "esp",
+   "assunto": "Poder de polícia",
+   "enunciado": "Servidores obstruem parte de uma via pública em manifestação. Pela Constituição, é correto dizer que a reunião:",
+   "alternativas": [
+    "é proibida para servidores",
+    "torna a lei desnecessária",
+    "garante greve sem desconto em qualquer caso",
+    "só vale com autorização policial",
+    "é válida se pacífica e sem armas, com aviso prévio à autoridade"
+   ],
+   "correta": 4,
+   "explicacao": "CF, art. 5º, XVI: não depende de autorização, só de aviso prévio. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas"
+  },
+  {
+   "id": "r155",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Servidora que recebe vantagem econômica para omitir ato de ofício comete improbidade por enriquecimento ilícito e está sujeita, entre outras penas, a:",
+   "alternativas": [
+    "prisão por violar princípios",
+    "suspensão dos direitos políticos até 14 anos",
+    "multa aumentada em dez vezes",
+    "perda da função e suspensão por até 12 anos, por dano ao erário",
+    "perda do cargo também por conduta culposa"
+   ],
+   "correta": 1,
+   "explicacao": "Lei 8.429/1992, arts. 9º e 12, I, com a redação de 2021. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r156",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Aposentada que cobra de empresas para \"acelerar\" processos na repartição, alegando influência sobre servidores, pratica:",
+   "alternativas": [
+    "tráfico de influência",
+    "corrupção ativa",
+    "contrabando",
+    "advocacia administrativa",
+    "usurpação de função pública"
+   ],
+   "correta": 0,
+   "explicacao": "Código Penal, art. 332. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r157",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "A ordem de prioridade da Política Nacional de Resíduos Sólidos é:",
+   "alternativas": [
+    "redução, reutilização, reciclagem, tratamento e disposição final",
+    "coleta, coleta seletiva, reciclagem, aterro, incineração",
+    "segregação, coleta, coleta seletiva, remediação",
+    "coleta, segregação, coleta seletiva, disposição",
+    "não geração, redução, reutilização, reciclagem, tratamento e disposição final adequada"
+   ],
+   "correta": 4,
+   "explicacao": "Lei 12.305/2010, art. 9º. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r158",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Lavra de minério sem autorização que contamina água do abastecimento público configura:",
+   "alternativas": [
+    "só infração federal",
+    "infração federal e estadual",
+    "crime ambiental",
+    "contravenção penal",
+    "só infração estadual"
+   ],
+   "correta": 2,
+   "explicacao": "Lei 9.605/1998 (crimes ambientais). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2025 · Pref. São José do Rio Preto/SP · Agente Fiscal de Posturas",
+   "extra": true
+  },
+  {
+   "id": "r159",
+   "materia": "port",
+   "assunto": "Concordância",
+   "enunciado": "A concordância verbal está correta em:",
+   "alternativas": [
+    "O apoio e a presença da família podem atenuar o sofrimento.",
+    "Antigamente não haviam tantos medicamentos.",
+    "Existe profissionais muito competentes.",
+    "A existência de especialidades médicas são algo importante.",
+    "Atualmente se contam com muitos conhecimentos."
+   ],
+   "correta": 0,
+   "explicacao": "Sujeito composto pede plural. Haver (existir) fica no singular; existir concorda; com \"contar com\" o verbo fica no singular. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r160",
+   "materia": "port",
+   "assunto": "Crase",
+   "enunciado": "Complete: \"O narrador foi ___ uma festa. Um convidado se atreveu ___ comer o talo que estava unido ___ coxinha.\"",
+   "alternativas": [
+    "a … a … à",
+    "à … a … a",
+    "a … à … a",
+    "a … a … a",
+    "à … à … à"
+   ],
+   "correta": 0,
+   "explicacao": "Não há crase antes de \"uma\" nem de verbo; \"unido a + a coxinha\" = à. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r161",
+   "materia": "mat",
+   "assunto": "Porcentagem",
+   "enunciado": "Uma caixa avulsa custa R$ 12,40 e o pacote com 12 sai por R$ 133,92. A economia por caixa no pacote é:",
+   "alternativas": [
+    "R$ 1,12",
+    "R$ 1,24",
+    "R$ 1,32",
+    "R$ 1,40",
+    "R$ 1,48"
+   ],
+   "correta": 1,
+   "explicacao": "133,92 ÷ 12 = 11,16; 12,40 − 11,16 = 1,24. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r162",
+   "materia": "mat",
+   "assunto": "MMC e MDC",
+   "enunciado": "Há 120 funcionários na produção e 96 na montagem, a dividir no maior número de grupos iguais e mistos. Cada grupo terá:",
+   "alternativas": [
+    "4",
+    "5",
+    "6",
+    "8",
+    "9"
+   ],
+   "correta": 4,
+   "explicacao": "MDC(120, 96) = 24 grupos, cada um com 5 + 4 = 9 pessoas. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r163",
+   "materia": "mat",
+   "assunto": "Porcentagem",
+   "enunciado": "Um setor tem 60 funcionários, 40% homens. Só mulheres foram contratadas e os homens passaram a 30% do total. Foram contratadas:",
+   "alternativas": [
+    "4",
+    "10",
+    "15",
+    "20",
+    "24"
+   ],
+   "correta": 3,
+   "explicacao": "24 homens = 30% do total, então o total é 80. Contratadas: 20. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r164",
+   "materia": "mat",
+   "assunto": "Regra de três",
+   "enunciado": "12 estagiários, 4 h/dia, organizam 240 caixas em 10 dias. Para 600 caixas em 6 dias, com 5 h/dia, o mínimo de novos estagiários é:",
+   "alternativas": [
+    "22",
+    "28",
+    "32",
+    "36",
+    "40"
+   ],
+   "correta": 1,
+   "explicacao": "2 estagiário-hora por caixa. 600 caixas = 1.200 ÷ 30 h = 40 estagiários; faltam 28. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r165",
+   "materia": "mat",
+   "assunto": "Equações",
+   "enunciado": "Cadeira: R$ 80 na loja A (frete R$ 200) e R$ 72 na B (frete R$ 320). O custo total é igual com:",
+   "alternativas": [
+    "13 cadeiras",
+    "14 cadeiras",
+    "15 cadeiras",
+    "16 cadeiras",
+    "20 cadeiras"
+   ],
+   "correta": 2,
+   "explicacao": "80n + 200 = 72n + 320, então 8n = 120 e n = 15. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r166",
+   "materia": "mat",
+   "assunto": "Equações",
+   "enunciado": "O quadrado do número de protocolos mais o quíntuplo dele é 500. Com 15 min por protocolo, o tempo total é:",
+   "alternativas": [
+    "5 horas",
+    "5h30",
+    "6 horas",
+    "6h15",
+    "6h45"
+   ],
+   "correta": 0,
+   "explicacao": "n² + 5n − 500 = 0 dá n = 20. 20 × 15 min = 300 min = 5 h. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r167",
+   "materia": "mat",
+   "assunto": "Média",
+   "enunciado": "Time de 20 atletas, média 1,77 m. Saem dois (1,73 e 1,70) e entram três (1,78; 1,80; 1,83). A nova média é:",
+   "alternativas": [
+    "1,76 m",
+    "1,77 m",
+    "1,78 m",
+    "1,79 m",
+    "1,80 m"
+   ],
+   "correta": 2,
+   "explicacao": "35,40 − 3,43 + 5,41 = 37,38 m; 37,38 ÷ 21 = 1,78. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r168",
+   "materia": "mat",
+   "assunto": "Geometria",
+   "enunciado": "Piso em hexágono regular de lado 4 m, a R$ 50/m² (use √3 ≈ 1,7). O custo é:",
+   "alternativas": [
+    "R$ 4.140",
+    "R$ 3.860",
+    "R$ 3.480",
+    "R$ 2.720",
+    "R$ 2.040"
+   ],
+   "correta": 4,
+   "explicacao": "Área = 6 × (16 × 1,7 ÷ 4) = 40,8 m² × 50 = 2.040. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r169",
+   "materia": "esp",
+   "assunto": "Poder de polícia",
+   "enunciado": "O princípio que exige do agente público ética, honestidade e boa-fé, sob pena de anulação do ato, é o da:",
+   "alternativas": [
+    "moralidade",
+    "publicidade",
+    "legalidade",
+    "impessoalidade",
+    "eficiência"
+   ],
+   "correta": 0,
+   "explicacao": "CF, art. 37. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r170",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Na Lei 14.133/2021, contratar mão de obra para pequenos trabalhos por preço certo, com ou sem material, é:",
+   "alternativas": [
+    "empreitada integral",
+    "empreitada por preço unitário",
+    "contratação integrada",
+    "contratação por tarefa",
+    "contratação semi-integrada"
+   ],
+   "correta": 3,
+   "explicacao": "Lei 14.133/2021, art. 6º, XXXI. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas",
+   "extra": true
+  },
+  {
+   "id": "r171",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Pela NBR 9050, rampa é a superfície de piso com declividade igual ou superior a:",
+   "alternativas": [
+    "5%",
+    "4%",
+    "3,5%",
+    "2,5%",
+    "2%"
+   ],
+   "correta": 0,
+   "explicacao": "Abaixo de 5% é piso inclinado comum. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Vunesp 2026 · Pref. Tremembé/SP · Fiscal de Obras e Posturas",
+   "extra": true
+  },
+  {
+   "id": "r172",
+   "materia": "port",
+   "assunto": "Regência",
+   "enunciado": "Troque \"com quem não me dava\" por gostar: \"Chamei um gajo ___\".",
+   "alternativas": [
+    "que eu não gostava",
+    "de quem eu não gostava",
+    "com quem eu não gostava",
+    "a quem eu não gostava"
+   ],
+   "correta": 1,
+   "explicacao": "Quem gosta, gosta de alguém. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r173",
+   "materia": "mat",
+   "assunto": "Equações",
+   "enunciado": "Um jogador fez 48 cestas de 2 ou 3 pontos, somando 108 pontos. É correto dizer que ele fez:",
+   "alternativas": [
+    "três vezes mais cestas de 3",
+    "três vezes mais cestas de 2",
+    "duas vezes mais cestas de 2",
+    "duas vezes mais cestas de 3"
+   ],
+   "correta": 1,
+   "explicacao": "x + y = 48 e 2x + 3y = 108: 36 de dois e 12 de três. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r174",
+   "materia": "mat",
+   "assunto": "Porcentagem",
+   "enunciado": "A planta será ampliada em 40% de área, mantendo as proporções. Um quarto de 7,5 m² ganhará:",
+   "alternativas": [
+    "3 m²",
+    "6,5 m²",
+    "10,5 m²",
+    "12 m²"
+   ],
+   "correta": 0,
+   "explicacao": "40% de 7,5 = 3 m². (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r175",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Ao pressionar Ctrl+C, o conteúdo copiado fica temporariamente:",
+   "alternativas": [
+    "no disco rígido",
+    "na Área de Transferência",
+    "na Área de Trabalho",
+    "numa pasta auxiliar"
+   ],
+   "correta": 1,
+   "explicacao": "A Área de Transferência guarda o que foi copiado até o Ctrl+V. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r176",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Para imprimir a capa e as páginas 21, 22 e 23, o intervalo correto é:",
+   "alternativas": [
+    "C, 21, 22, 23",
+    "0, 21-22-23",
+    "1 - 21 - 23",
+    "1, 21-23"
+   ],
+   "correta": 3,
+   "explicacao": "Vírgula separa páginas; hífen indica intervalo. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r177",
+   "materia": "esp",
+   "assunto": "Rotina do fiscal",
+   "enunciado": "Quanto ao caráter das ações de posturas, a fiscalização municipal deve ser:",
+   "alternativas": [
+    "exclusivamente coercitiva",
+    "coercitiva e, ao mesmo tempo, educativa e preventiva",
+    "nunca coercitiva",
+    "só educativa"
+   ],
+   "correta": 1,
+   "explicacao": "O poder de polícia pune, mas também orienta e previne. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r178",
+   "materia": "esp",
+   "assunto": "Rotina do fiscal",
+   "enunciado": "O documento que descreve de forma ordenada e minuciosa o que o fiscal viu, ouviu ou observou na vistoria é o:",
+   "alternativas": [
+    "Relatório de Fiscalização",
+    "Notificação",
+    "Embargo",
+    "Auto de Infração"
+   ],
+   "correta": 0,
+   "explicacao": "O relatório registra os fatos; a notificação dá prazo; o auto aplica a penalidade. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r179",
+   "materia": "esp",
+   "assunto": "Rotina do fiscal",
+   "enunciado": "O documento que informa pendências ao responsável e pede providências para regularizar em um prazo é a (o):",
+   "alternativas": [
+    "Relatório de Fiscalização",
+    "Notificação",
+    "Embargo",
+    "Auto de Infração"
+   ],
+   "correta": 1,
+   "explicacao": "No Código de Posturas de Patrocínio Paulista, é a intimação (art. 436). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r180",
+   "materia": "esp",
+   "assunto": "Rotina do fiscal",
+   "enunciado": "Devem ser coibidas pela fiscalização de posturas, EXCETO:",
+   "alternativas": [
+    "uso irregular da área pública",
+    "atividades com licença da prefeitura",
+    "anúncios em locais ou tamanhos não autorizados",
+    "irregularidades em eventos, parques e circos"
+   ],
+   "correta": 1,
+   "explicacao": "Atividade licenciada e regular não é infração. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r181",
+   "materia": "esp",
+   "assunto": "Rotina do fiscal",
+   "enunciado": "A subdivisão de gleba em lotes com abertura de novas vias é chamada de:",
+   "alternativas": [
+    "desmembramento",
+    "urbanização",
+    "loteamento",
+    "extensão"
+   ],
+   "correta": 2,
+   "explicacao": "Lei 6.766/1979. Desmembramento aproveita as vias existentes. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r182",
+   "materia": "esp",
+   "assunto": "Rotina do fiscal",
+   "enunciado": "Sobre logradouros públicos, é correto afirmar:",
+   "alternativas": [
+    "Ruas, praças e jardins são bens públicos de uso comum do povo.",
+    "São bens alienáveis.",
+    "Devem ter registro imobiliário.",
+    "O município é dono deles como um particular."
+   ],
+   "correta": 0,
+   "explicacao": "Código Civil, art. 99, I. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r183",
+   "materia": "esp",
+   "assunto": "Rotina do fiscal",
+   "enunciado": "NÃO caracteriza o preço público:",
+   "alternativas": [
+    "decorre de contrato oneroso com a administração",
+    "é pecuniário",
+    "a obrigação é compulsória, mesmo decorrendo da livre vontade",
+    "é contraprestação pela cessão do espaço público"
+   ],
+   "correta": 2,
+   "explicacao": "Preço público é voluntário; o que é compulsório é tributo (taxa). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r184",
+   "materia": "esp",
+   "assunto": "Rotina do fiscal",
+   "enunciado": "São ferramentas do fiscal para registrar fatos, EXCETO:",
+   "alternativas": [
+    "notificação",
+    "denúncia pública",
+    "relatório de fiscalização",
+    "embargo"
+   ],
+   "correta": 1,
+   "explicacao": "A denúncia vem da população; não é instrumento do fiscal. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r185",
+   "materia": "ger",
+   "assunto": "Geografia",
+   "enunciado": "Não faz parte da bacia amazônica o rio:",
+   "alternativas": [
+    "Amazonas",
+    "Negro",
+    "São Francisco",
+    "Xingu"
+   ],
+   "correta": 2,
+   "explicacao": "O São Francisco tem bacia própria, no Nordeste e Sudeste. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "IPEFAE 2020 · Pref. Campos do Jordão/SP · Fiscal (Posturas)"
+  },
+  {
+   "id": "r186",
+   "materia": "port",
+   "assunto": "Classes de palavras",
+   "enunciado": "A palavra destacada está em sentido figurado em:",
+   "alternativas": [
+    "Deixei as anotações sobre a sua mesa.",
+    "Não sei se pinto a parede de branco.",
+    "A tela do celular quebrou.",
+    "Não entendo como você se submete a um papel de tolo.",
+    "Foi difícil trocar a roda do automóvel."
+   ],
+   "correta": 3,
+   "explicacao": "\"Papel\" aqui é função, atitude, não a folha. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r187",
+   "materia": "port",
+   "assunto": "Acentuação",
+   "enunciado": "Todas as palavras estão grafadas conforme as normas em:",
+   "alternativas": [
+    "Eu tinha uma ideia muito diferente sobre o hábito de exagero.",
+    "Houve uma revoada em cujo vôo as aves eram organizadas.",
+    "Senão as faiscas podem ferir a sua íris.",
+    "Eu tambem preciso me dedicar.",
+    "Ele apóia os seus fundamentos."
+   ],
+   "correta": 0,
+   "explicacao": "Certos: voo, faíscas, também, apoia. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r188",
+   "materia": "port",
+   "assunto": "Crase",
+   "enunciado": "Lacunas: \"___ princípio, tudo seguirá ___ programação. ___ julgar pelas aparências, você se submeteu ___ chantagens. Espere-me daqui ___ pouco, exatamente ___ uma hora.\"",
+   "alternativas": [
+    "À – à – À – às – a – a",
+    "A – a – A – às – a – à",
+    "A – à – À – as – a – a",
+    "À – a – À – as – à – à",
+    "À – a – A – as – à – a"
+   ],
+   "correta": 1,
+   "explicacao": "A princípio; conforme a; a julgar (verbo); submeteu-se às; daqui a pouco; à uma hora (hora indicada). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r189",
+   "materia": "port",
+   "assunto": "Conectivos",
+   "enunciado": "Em \"Também os escritores, para avaliarem melhor o peso de cada palavra\", \"para\" pode ser trocada por:",
+   "alternativas": [
+    "\"afim de\", com sentido de afinidade",
+    "\"a fim de\", com sentido de afinidade",
+    "\"a fim de\", com sentido de finalidade",
+    "\"afim de\", com sentido de finalidade",
+    "\"a fim de\", com sentido de causa"
+   ],
+   "correta": 2,
+   "explicacao": "\"A fim de\" = finalidade; \"afim\" = semelhante. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r190",
+   "materia": "port",
+   "assunto": "Concordância",
+   "enunciado": "Preencha: \"___ a relação de mantimentos. O diretor e seu sócio ___ uma feijoada. ___ muitas despesas previstas. ___ elogios para você.\"",
+   "alternativas": [
+    "Chegaram – aprecia – Havia – Choveram",
+    "Chegou – aprecia – Haviam – Choveram",
+    "Chegou – apreciam – Haviam – Choveu",
+    "Chegou – apreciam – Havia – Choveram",
+    "Chegaram – aprecia – Haviam – Choveu"
+   ],
+   "correta": 3,
+   "explicacao": "A relação chegou; sujeito composto no plural; haver impessoal; choveram elogios (sentido figurado concorda). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r191",
+   "materia": "port",
+   "assunto": "Pontuação",
+   "enunciado": "Reescreva em discurso indireto: \"O estudante perguntou ao professor, com muito receio: – Que dia será a prova?\"",
+   "alternativas": [
+    "O estudante perguntou: ao professor com muito receio, que dia seria a prova.",
+    "O estudante perguntou ao professor, com muito receio, que dia seria a prova?",
+    "O estudante perguntou ao professor, com muito receio, que dia seria a prova.",
+    "O estudante, perguntou ao professor com muito receio que dia, seria a prova.",
+    "O estudante, perguntou ao professor com muito receio que dia seria, a prova?"
+   ],
+   "correta": 2,
+   "explicacao": "Pergunta indireta termina em ponto final; nada de vírgula entre sujeito e verbo. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r192",
+   "materia": "mat",
+   "assunto": "Operações",
+   "enunciado": "Quantos recipientes de 2,16 litros se enchem com 10,8 litros?",
+   "alternativas": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "correta": 3,
+   "explicacao": "10,8 ÷ 2,16 = 5. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r193",
+   "materia": "mat",
+   "assunto": "MMC e MDC",
+   "enunciado": "O MMC de 35 e 1.225 é:",
+   "alternativas": [
+    "1.225",
+    "350",
+    "70",
+    "50",
+    "35"
+   ],
+   "correta": 0,
+   "explicacao": "1.225 = 35 × 35, então é múltiplo de 35. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r194",
+   "materia": "mat",
+   "assunto": "Média",
+   "enunciado": "Despesas somam R$ 4.800 com média de R$ 600. O número de valores é:",
+   "alternativas": [
+    "4",
+    "6",
+    "8",
+    "10",
+    "12"
+   ],
+   "correta": 2,
+   "explicacao": "4.800 ÷ 600 = 8. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r195",
+   "materia": "mat",
+   "assunto": "Porcentagem",
+   "enunciado": "V ou F: ( ) 84 é 15% de 560. ( ) 2% de 5 é 0,1. ( ) 7 é 10% de 77. ( ) 13 é 50% de 27.",
+   "alternativas": [
+    "V – F – F – F",
+    "V – V – F – F",
+    "F – V – V – V",
+    "F – F – F – V",
+    "F – V – V – F"
+   ],
+   "correta": 1,
+   "explicacao": "15% de 560 = 84; 2% de 5 = 0,1; 10% de 77 = 7,7; 50% de 27 = 13,5. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r196",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "A sigla do endereço de um recurso na rede, como um site, é:",
+   "alternativas": [
+    "Desktop",
+    "Info",
+    "SSU",
+    "URL",
+    "UOL"
+   ],
+   "correta": 3,
+   "explicacao": "URL: Uniform Resource Locator. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r197",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "Para atualizar uma Tabela Dinâmica do Excel após incluir novos dados na fonte:",
+   "alternativas": [
+    "fechar e reabrir o arquivo",
+    "Inserir > Atualizar Linhas",
+    "botão direito na tabela > Atualizar",
+    "excluir e recriar a tabela",
+    "colar os dados dentro da tabela"
+   ],
+   "correta": 2,
+   "explicacao": "Também pelo atalho Alt+F5. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r198",
+   "materia": "esp",
+   "assunto": "Informática",
+   "enunciado": "A ______ do Windows é composta pela barra de tarefas e pelo plano de fundo onde se organizam os ícones.",
+   "alternativas": [
+    "área de trabalho",
+    "acessibilidade",
+    "fonte",
+    "captura",
+    "área de totalização"
+   ],
+   "correta": 0,
+   "explicacao": "É a Área de Trabalho (desktop). (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r199",
+   "materia": "esp",
+   "assunto": "Rotina do fiscal",
+   "enunciado": "Viola o princípio da legalidade o fiscal que:",
+   "alternativas": [
+    "cria uma proibição nova por conta própria, sem lei",
+    "multa empresa que desobedece lei vigente",
+    "autoriza obra que cumpre a lei",
+    "nega alvará por falta de certidão exigida em lei",
+    "interdita local perigoso com base no poder de polícia"
+   ],
+   "correta": 0,
+   "explicacao": "O agente público só pode fazer o que a lei permite. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r200",
+   "materia": "esp",
+   "assunto": "Rotina do fiscal",
+   "enunciado": "A poluição sonora pode causar:",
+   "alternativas": [
+    "problemas respiratórios",
+    "contaminação de rios",
+    "aquecimento global",
+    "surdez temporária ou permanente",
+    "degradação do solo"
+   ],
+   "correta": 3,
+   "explicacao": "Tema ligado ao sossego público do Código de Posturas. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas"
+  },
+  {
+   "id": "r201",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "É ______ vender ou prometer vender parcela de loteamento ou desmembramento não registrado.",
+   "alternativas": [
+    "permitido",
+    "vedado",
+    "obrigatório",
+    "liberado",
+    "recomendado"
+   ],
+   "correta": 1,
+   "explicacao": "Lei 6.766/1979, art. 37. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas",
+   "extra": true
+  },
+  {
+   "id": "r202",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "A Licença de Instalação (LI) ambiental:",
+   "alternativas": [
+    "autoriza o início das operações",
+    "paralisa obras com falhas",
+    "aprova a viabilidade antes dos projetos",
+    "restringe o canteiro",
+    "autoriza a instalação do empreendimento conforme as especificações aprovadas"
+   ],
+   "correta": 4,
+   "explicacao": "Sequência: Licença Prévia, de Instalação e de Operação. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas",
+   "extra": true
+  },
+  {
+   "id": "r203",
+   "materia": "esp",
+   "assunto": "Outros temas de fiscalização",
+   "enunciado": "Pela Política Nacional de Resíduos Sólidos, o local contaminado pela disposição de substâncias ou resíduos é a:",
+   "alternativas": [
+    "área contaminada",
+    "jardim municipal",
+    "unidade de conservação",
+    "parque público",
+    "corredor ecológico"
+   ],
+   "correta": 0,
+   "explicacao": "Lei 12.305/2010, art. 3º, II. (Gabarito conferido pela Caderneta; o oficial não veio junto.)",
+   "origem": "prova",
+   "fonte": "Avança SP 2026 · Pref. Nova Odessa/SP · Fiscal de Obras e Posturas",
+   "extra": true
+  }
+ ],
+ "notaExtra": "Questões de \"Outros temas de fiscalização\" caíram em provas de outras cidades, mas não estão no edital deste concurso. Elas ficam fora dos simulados.",
+ "maisQuestoes": {
+  "antes": "O",
+  "nome": "Gran Questões",
+  "url": "https://questoes.grancursosonline.com.br/concursos/fiscal-de-posturas",
+  "depois": "deixa resolver provas de fiscal de posturas sem limite, no site deles."
+ }
+}

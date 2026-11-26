@@ -1,6 +1,6 @@
 // Guarda o app no celular para funcionar sem internet.
 // Ao publicar uma versão nova, troque o número abaixo (v4 -> v5).
-const CACHE = 'caderneta-v5';
+const CACHE = 'caderneta-v6';
 const ARQUIVOS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 // Guarda cada arquivo separadamente: se um faltar, os outros continuam funcionando.
