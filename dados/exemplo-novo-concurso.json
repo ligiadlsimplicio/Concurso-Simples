@@ -1,0 +1,58 @@
+{
+ "id": "exemplo-concurso-2027",
+ "nome": "Agente Administrativo",
+ "orgao": "Prefeitura de Exemplo-SP",
+ "banca": "Banca Exemplo",
+ "dataProva": "2027-05-10",
+ "horaProva": "09:00",
+ "duracaoMin": 180,
+ "notaMinima": 50,
+ "materias": [
+  {
+   "id": "port",
+   "nome": "Língua Portuguesa",
+   "curto": "Português",
+   "qtd": 10,
+   "valor": 2.5
+  },
+  {
+   "id": "esp",
+   "nome": "Conhecimentos Específicos",
+   "curto": "Específicos",
+   "qtd": 20,
+   "valor": 3.75
+  }
+ ],
+ "aulas": [
+  {
+   "id": "a-ex-1",
+   "materia": "port",
+   "assunto": "Crase",
+   "titulo": "Crase sem medo",
+   "cards": [
+    {
+     "t": "A regra",
+     "b": "Crase = preposição **a** + artigo **a**."
+    }
+   ]
+  }
+ ],
+ "questoes": [
+  {
+   "id": "ex001",
+   "materia": "port",
+   "assunto": "Crase",
+   "enunciado": "O acento de crase está correto em:",
+   "alternativas": [
+    "Fui à pé.",
+    "Entreguei o documento à diretora.",
+    "Começou à chover.",
+    "Refiro-me à Vossa Senhoria."
+   ],
+   "correta": 1,
+   "explicacao": "Entregar a + a diretora.",
+   "origem": "inedita",
+   "fonte": "Questão inédita"
+  }
+ ]
+}

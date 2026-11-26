@@ -1,0 +1,5 @@
+﻿id,nome,curto,qtd,valor
+esp,Conhecimentos Específicos,Específicos,15,4.0
+port,Língua Portuguesa,Português,10,1.75
+mat,Matemática,Matemática,10,1.75
+ger,Conhecimentos Gerais,Gerais,5,1.0

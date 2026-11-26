@@ -23,6 +23,13 @@ A primeira versão foi feita para o concurso de **Fiscal de Posturas da Prefeitu
 
 > **Atenção:** os gabaritos oficiais das provas reais não estavam disponíveis. As respostas foram conferidas uma a uma pela lei ou pela conta, e cada questão avisa isso no app. Questões de temas que não estão no edital (licitação, NBR 9050, leis ambientais etc.) ficam no banco, mas fora dos simulados.
 
+### Conteúdo de Oficial de Justiça (TJSP 2026, Vunesp)
+
+- **19 aulas** pelo conteúdo programático do edital: atos do oficial no CPC, citação, hora certa, intimação, penhora, avaliação, citação e prisão no CPP, crimes contra a Administração, Constitucional, Estatuto SP, improbidade, Civil, LINDB, execução fiscal, Resolução CNJ 354/2020, taxa judiciária, Estatuto da Pessoa com Deficiência e Português da Vunesp.
+- **224 questões de provas reais com gabarito oficial**: TJSP Escrevente 2025 e 2021, TJSP Oficial de Justiça 2009 e TJM-SP Oficial de Justiça 2011. As questões de Português trazem o texto da prova.
+- **150 questões inéditas** no formato Vunesp, com o artigo de lei na explicação.
+- Questões de provas antigas sobre artigos que o edital não pede, ou de atualidades de anos anteriores, ficam fora dos simulados.
+
 ---
 
 ## 1. Publicar no GitHub Pages
@@ -77,7 +84,7 @@ Cada concurso é uma pasta dentro de `planilhas/`, com quatro arquivos:
 | `concurso.csv` | informação geral | `campo`, `valor` (id, nome, orgao, banca, dataProva no formato AAAA-MM-DD, horaProva, duracaoMin, notaMinima) |
 | `materias.csv` | matéria da prova | `id` (curto, sem espaço), `nome`, `curto` (nome no menu), `qtd` (questões na prova), `valor` (pontos por acerto) |
 | `aulas.csv` | **página** de aula | `id_aula`, `materia`, `assunto`, `titulo_aula`, `titulo_pagina`, `texto_pagina` |
-| `questoes.csv` | questão | `id`, `materia`, `assunto`, `enunciado`, `alternativa_A` a `alternativa_E`, `correta` (letra), `explicacao`, `origem`, `fonte`, `fora_do_edital` |
+| `questoes.csv` | questão | `id`, `materia`, `assunto`, `enunciado`, `alternativa_A` a `alternativa_E`, `correta` (letra), `explicacao`, `origem`, `fonte`, `fora_do_edital`, `texto` (opcional) |
 
 Dicas para preencher:
 
@@ -87,6 +94,8 @@ Dicas para preencher:
 - **`correta`:** a letra da alternativa certa (A, B, C, D ou E).
 - **`origem`:** `prova` para questão de prova real, `inedita` para questão criada. Em `fonte`, escreva banca, órgão e ano.
 - **`fora_do_edital`:** escreva `sim` para a questão ficar no banco, mas fora dos simulados.
+- **`texto`:** opcional. Texto de apoio da questão (por exemplo, o texto de interpretação de Português). Aparece numa caixa que abre e fecha acima do enunciado.
+- **Campos opcionais em `concurso.csv`:** `aviso` (explicação da nota mínima na tela inicial), `notaExtra` (aviso sobre questões fora do edital), `maisQuestoes_nome` e `maisQuestoes_url` (link para mais questões).
 - **`assunto`:** use o mesmo texto na aula e nas questões. É assim que o botão "Praticar" de cada aula encontra as questões certas.
 - Ao salvar, escolha **CSV UTF-8 (separado por vírgulas)**. No Google Planilhas: **Arquivo → Fazer download → Valores separados por vírgula**.
 
@@ -115,16 +124,18 @@ python3 montar.py                                      # JSON -> index.html
 
 Para transformar em planilha um JSON que já existe, use `python3 json_para_planilha.py nome-do-concurso`.
 
-## 5. Trocar o concurso que abre por padrão
+## 5. Escolher os concursos que vêm no app
 
-O `index.html` já traz um concurso embutido, que é o que abre na primeira vez. Para trocar:
+O `index.html` já traz **Fiscal de Posturas (Patrocínio Paulista)** e **Oficial de Justiça (TJSP)**. Quem usa troca entre eles em **Carimbos → Estudando para**. O progresso de cada concurso é guardado separado.
+
+A lista fica no topo do `fonte/montar.py`, na linha `CONCURSOS = [...]`. O primeiro da lista é o que abre para quem instala pela primeira vez. Também dá para passar os nomes na hora:
 
 ```bash
 cd fonte
-python3 montar.py franca-agente-2027
+python3 montar.py patrocinio-fiscal-2026 oficial-justica-tjsp-2026 franca-agente-2027
 ```
 
-Depois suba o `index.html` novo para o GitHub. Em seguida, abra o `sw.js` e troque `caderneta-v3` por `caderneta-v4` (aumente o número a cada publicação). Isso faz os celulares baixarem a versão nova. Quem já tinha progresso no concurso antigo continua com ele, porque o progresso é separado por concurso.
+Depois suba o `index.html` novo para o GitHub e, no `sw.js`, aumente o número em `caderneta-v6` (por exemplo, `caderneta-v7`). Isso faz os celulares baixarem a versão nova.
 
 ## 6. Backup do progresso
 
@@ -169,5 +180,6 @@ caderneta-de-fiscal/
 - Textos das leis municipais (Lei 686/1973, LC 10/2013, LC 55/2021 e Lei Orgânica 2.048/2005), obtidos no Leis.org e no portal da Prefeitura.
 - Lei Estadual 10.083/1998, pelo site da Assembleia Legislativa de SP.
 - Provas anteriores de fiscal de posturas publicadas no [PCI Concursos](https://www.pciconcursos.com.br).
+- Edital do concurso de Oficial de Justiça do TJSP (2026) e provas da Vunesp para o TJSP e o TJM-SP, com os gabaritos oficiais publicados pelos tribunais.
 
 As questões de provas reais pertencem às respectivas bancas e foram incluídas apenas para estudo, sem fins comerciais.
